@@ -1,6 +1,6 @@
 # 2019-nCoV
 
-2019-nCoV stat.
+2019-nCoV stat. https://yujinpan.github.io/2019-nCoV/
 
 ## Update
 
