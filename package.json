@@ -1,6 +1,6 @@
 {
-  "name": "vue-integrate",
-  "version": "0.4.0",
+  "name": "2019-nCov",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
