@@ -24,33 +24,25 @@ export default {
           '#6e7074',
           '#c4ccd3'
         ],
-        series: {
-          label: {
-            normal: {
-              show: true
-            }
-          }
-        },
         title: {
-          text: '2019-nCoV 确诊病例统计',
+          text: '2019-nCoV 全球确诊病例统计（不代表最新实时信息）',
           subtext: '（数据来源：维基百科 2019－2020年新型冠狀病毒肺炎事件）',
           sublink:
             'https://zh.wikipedia.org/wiki/2019－2020年新型冠狀病毒肺炎事件',
           left: 'center'
         },
         grid: {
-          top: 100,
-          right: 150,
+          top: 120,
           bottom: 0
         },
         tooltip: {
           confine: true
         },
         legend: {
-          top: 40,
-          type: 'scroll',
-          orient: 'vertical',
-          right: 0
+          top: 60,
+          type: 'scroll'
+          // orient: 'vertical',
+          // right: 0
           // 勾选的类型
           // selected: {}
         },
