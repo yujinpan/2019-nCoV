@@ -29,15 +29,19 @@ export function getStat2019() {
       });
     });
 
+    // 时间排序
+    result.sort((a, b) => new Date(a.date) - new Date(b.date));
+
     // 获取 columns
     const keys = new Set();
     result.forEach((item) => Object.keys(item).forEach((key) => keys.add(key)));
     const columns = Array.from(keys);
 
     // 根据 columns 补全数据
+    const areaKeys = columns.slice(1);
     result.forEach((item, index, arr) => {
-      columns.forEach((key) => {
-        if (!item[key] && index > 0) {
+      areaKeys.forEach((key) => {
+        if (index > 0 && (!item[key] || item[key] < arr[index - 1][key])) {
           item[key] = arr[index - 1][key];
         }
       });
@@ -55,10 +59,9 @@ export function getStat2019() {
     const total = result.slice(-1)[0];
     columns.sort((a, b) => total[b] - total[a]);
 
-    // 时间排序
     return {
       columns,
-      data: result.sort((a, b) => new Date(a.date) - new Date(b.date))
+      data: result
     };
   });
 }
@@ -118,28 +121,42 @@ function getTableData(tableElem) {
 // 找出累计数量
 function findCount(text) {
   let count;
-  const match = text.match(/累计(\d+)例/g);
+
+  // 匹配累计关键字
+  let match = text.match(/累计(确诊)?(\d+)例/g);
   if (match) {
-    let count = Number(match.slice(-1)[0].replace(/.*累计(\d+)例.*/, '$1'));
+    count = Math.max(
+      ...match.map((item) =>
+        Number(item.replace(/.*累计(确诊)?(\d+)例.*/, '$1'))
+      )
+    );
     if (count > 0) return count;
   }
-  count = Number(text.replace(/.*(\d+)例确诊病例.*/, '$1'));
-  if (count > 0) return count;
-  count = Number(text.replace(/.*确诊(\d+)例.*/, '$1'));
-  if (count > 0) return count;
-  count = Number(text.replace(/.*确诊病例达(\d+)例.*/, '$1'));
-  if (count > 0) return count;
-  count = Number(text.replace(/.*累计确诊病例达(\d+)例.*/, '$1'));
-  if (count > 0) return count;
-  count = Number(text.replace(/.*累计报告病例(\d+)例.*/, '$1'));
-  if (count > 0) return count;
-  count = Number(text.replace(/.*累计报告(\d+)例.*/, '$1'));
-  if (count > 0) return count;
-  count = Number(text.replace(/.*累计个案增至(\d+)宗.*/, '$1'));
-  if (count > 0) return count;
+
+  // 匹配数字关键字
+  match = text.match(/\d+[例宗]/g);
+  if (match) {
+    count = Math.max(...match.map((item) => Number(item.slice(0, -1))));
+    if (count > 0) return count;
+  }
+
+  // 匹配特殊关键字
+  if (text.includes('三宗武汉肺炎确诊病例')) {
+    return 3;
+  }
+  if (
+    text.includes('74岁中华人民共和国籍女子，其于1月13日抵达泰国') ||
+    text.includes('确诊第二例') ||
+    text.includes('两父子被确诊') ||
+    text.includes('第二例确诊病例') ||
+    text.includes('第二宗确诊病例')
+  ) {
+    return 2;
+  }
   if (
     text.includes('1例输入性病例') ||
     text.includes('第一例确诊病例') ||
+    text.includes('确诊首例') ||
     text.includes('首例确诊') ||
     text.includes('首宗确诊') ||
     text.includes('神奈川县，30+岁中华人民共和国籍男性') ||
@@ -147,13 +164,6 @@ function findCount(text) {
   ) {
     count = Number(text.replace(/.*新增(\d+)例.*/, '$1'));
     return count > 0 ? count + 1 : 1;
-  }
-  if (
-    text.includes('74岁中华人民共和国籍女子，其于1月13日抵达泰国') ||
-    text.includes('确诊第二例') ||
-    text.includes('出现第二例确诊病例')
-  ) {
-    return 2;
   }
 }
 

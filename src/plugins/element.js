@@ -6,13 +6,13 @@
 import Vue from 'vue';
 
 // 方式一：按需加载
-import { Button, Loading, Message } from 'element-ui';
+import { Divider } from 'element-ui';
 
-Vue.use(Button);
-Vue.use(Loading.directive);
+Vue.use(Divider);
+// Vue.use(Loading.directive);
 
-Vue.prototype.$loading = Loading.service;
-Vue.prototype.$message = Message;
+// Vue.prototype.$loading = Loading.service;
+// Vue.prototype.$message = Message;
 
 // 方式二：完整加载方式
 // import ElementUI from 'element-ui';
