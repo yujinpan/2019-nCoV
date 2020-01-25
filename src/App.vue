@@ -1,8 +1,13 @@
 <template>
   <div id="app" class="full-height padding-large">
     <h3 class="text-center">2019-nCoV 全球数据统计（不代表最新实时信息）</h3>
+    <p class="text-center text-secondary">更新时间：2020-01-26 01:42</p>
     <el-divider></el-divider>
-    <ve-line :extend="chartExtend" :data="chartData"></ve-line>
+    <ve-line
+      style="margin-bottom: -20px;"
+      :extend="chartExtend"
+      :data="chartData"
+    ></ve-line>
     <el-divider></el-divider>
     <ve-bar height="900px" :extend="chartExtend2" :data="chartData2"></ve-bar>
   </div>
@@ -44,6 +49,10 @@ export default {
         },
         title: {
           text: '确诊病例变化趋势',
+          textStyle: {
+            fontSize: 16,
+            color: '#666'
+          },
           subtext: '（数据来源：维基百科 2019－2020年新型冠狀病毒肺炎事件）',
           sublink:
             'https://zh.wikipedia.org/wiki/2019－2020年新型冠狀病毒肺炎事件',
@@ -66,6 +75,10 @@ export default {
         ...common,
         title: {
           text: '确诊病例地区数量',
+          textStyle: {
+            fontSize: 16,
+            color: '#666'
+          },
           subtext: '（数据来源：维基百科 2019－2020年新型冠狀病毒肺炎事件）',
           sublink:
             'https://zh.wikipedia.org/wiki/2019－2020年新型冠狀病毒肺炎事件',
@@ -118,5 +131,6 @@ export default {
 @import '~@/styles/common-variables.scss';
 
 #app {
+  line-height: 1.5;
 }
 </style>
