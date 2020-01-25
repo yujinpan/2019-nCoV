@@ -8,33 +8,33 @@
 <th class="headerSort" tabindex="0" role="columnheader button" title="升序排列">发布机构
 </th></tr></thead><tbody>
 <tr>
-<td rowspan="18"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B9%96%E5%8C%97%E7%9C%81" title="湖北省">湖北省</a></span>
+<td rowspan="20"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B9%96%E5%8C%97%E7%9C%81" title="湖北省">湖北省</a></span>
 </td>
 <td><span class="nowrap">2019-12-31</span>
 </td>
-<td>出现27例不明原因肺炎病例，其中7例严重<sup id="cite_ref-89" class="reference"><a href="#cite_note-89">[88]</a></sup>
+<td>出现27例不明原因肺炎病例，其中7例严重<sup id="cite_ref-91" class="reference"><a href="#cite_note-91">[90]</a></sup>
 </td>
 <td rowspan="14">武汉市卫生健康委员会、湖北省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-03
 </td>
-<td>不明原因肺炎患者44例，其中重症11例<sup id="cite_ref-90" class="reference"><a href="#cite_note-90">[89]</a></sup>
+<td>不明原因肺炎患者44例，其中重症11例<sup id="cite_ref-92" class="reference"><a href="#cite_note-92">[91]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-05
 </td>
-<td>不明原因肺炎患者59例，其中重症7例<sup id="cite_ref-91" class="reference"><a href="#cite_note-91">[90]</a></sup>
+<td>不明原因肺炎患者59例，其中重症7例<sup id="cite_ref-93" class="reference"><a href="#cite_note-93">[92]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-11
 </td>
-<td>新增死亡病例1例。累计41例（排除若干无相关病例），其中出院2例、重症7例、死亡1例<sup id="cite_ref-92" class="reference"><a href="#cite_note-92">[91]</a></sup>
+<td>新增死亡病例1例。累计41例（排除若干无相关病例），其中出院2例、重症7例、死亡1例<sup id="cite_ref-94" class="reference"><a href="#cite_note-94">[93]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-12
 </td>
-<td rowspan="4">累计41例，其中出院6例、重症7例、死亡1例<sup id="cite_ref-93" class="reference"><a href="#cite_note-93">[92]</a></sup><sup id="cite_ref-94" class="reference"><a href="#cite_note-94">[93]</a></sup><sup id="cite_ref-95" class="reference"><a href="#cite_note-95">[94]</a></sup><sup id="cite_ref-96" class="reference"><a href="#cite_note-96">[95]</a></sup>
+<td rowspan="4">累计41例，其中出院6例、重症7例、死亡1例<sup id="cite_ref-95" class="reference"><a href="#cite_note-95">[94]</a></sup><sup id="cite_ref-96" class="reference"><a href="#cite_note-96">[95]</a></sup><sup id="cite_ref-97" class="reference"><a href="#cite_note-97">[96]</a></sup><sup id="cite_ref-98" class="reference"><a href="#cite_note-98">[97]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-13
@@ -48,443 +48,519 @@
 <tr>
 <td>2020-01-16
 </td>
-<td>新增死亡病例1例。累计41例，其中出院12例、重症5例、死亡2例<sup id="cite_ref-97" class="reference"><a href="#cite_note-97">[96]</a></sup>
+<td>新增死亡病例1例。累计41例，其中出院12例、重症5例、死亡2例<sup id="cite_ref-99" class="reference"><a href="#cite_note-99">[98]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-17
 </td>
-<td>新增4例。累计45例，其中出院15例、重症5例、死亡2例<sup id="cite_ref-98" class="reference"><a href="#cite_note-98">[97]</a></sup>
+<td>新增4例。累计45例，其中出院15例、重症5例、死亡2例<sup id="cite_ref-100" class="reference"><a href="#cite_note-100">[99]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-18
 </td>
-<td>新增17例。累计62例，其中出院19例、重症8例、死亡2例<sup id="cite_ref-99" class="reference"><a href="#cite_note-99">[98]</a></sup>
+<td>新增17例。累计62例，其中出院19例、重症8例、死亡2例<sup id="cite_ref-101" class="reference"><a href="#cite_note-101">[100]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-19
 </td>
-<td>18、19两日新增136例，新增死亡病例1例。累计198例，其中出院25例、重症35例、危重症9例、死亡3例<sup id="cite_ref-100" class="reference"><a href="#cite_note-100">[99]</a></sup>
+<td>18、19两日新增136例，新增死亡病例1例。累计198例，其中出院25例、重症35例、危重症9例、死亡3例<sup id="cite_ref-102" class="reference"><a href="#cite_note-102">[101]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-20
 </td>
-<td>19日晚新增死亡病例1例。累计198例，其中出院25例、重症35例、危重症9例、死亡4例<sup id="cite_ref-101" class="reference"><a href="#cite_note-101">[100]</a></sup>
+<td>19日晚新增死亡病例1例。累计198例，其中出院25例、重症35例、危重症9例、死亡4例<sup id="cite_ref-103" class="reference"><a href="#cite_note-103">[102]</a></sup>
 </td></tr>
 <tr>
 <td rowspan="2">2020-01-21
 </td>
-<td>20日晚新增死亡病例2例，新增病例60例，累计258例，其中出院25例、重症51例、危重症12例、死亡6例<sup id="cite_ref-102" class="reference"><a href="#cite_note-102">[101]</a></sup>
+<td>20日晚新增死亡病例2例，新增病例60例，累计258例，其中出院25例、重症51例、危重症12例、死亡6例<sup id="cite_ref-104" class="reference"><a href="#cite_note-104">[103]</a></sup>
 </td></tr>
 <tr>
-<td>首次通报于武汉外发现病例。20日，<a href="/wiki/%E9%BB%83%E5%B2%A1" class="mw-redirect" title="黄冈">黄冈</a>发现病例12例，其中医生1例，护士4例<br>湖北省累计270例，其中出院25例、重症51例、危重症12例、死亡6例<sup id="cite_ref-103" class="reference"><a href="#cite_note-103">[102]</a></sup>
+<td>首次通报于武汉外发现病例。20日，<a href="/wiki/%E9%BB%83%E5%B2%A1" class="mw-redirect" title="黄冈">黄冈</a>发现病例12例，其中医生1例，护士4例<br>湖北省累计270例，其中出院25例、重症51例、危重症12例、死亡6例<sup id="cite_ref-105" class="reference"><a href="#cite_note-105">[104]</a></sup>
 </td>
 <td rowspan="2">湖北省卫生健康委员会
 </td></tr>
 <tr>
 <td rowspan="2">2020-01-22
 </td>
-<td>21日武汉市新增105例，死亡3例，出院3例。湖北省累计375例，其中出院28例、重症65例、危重症23例、死亡9例<sup id="cite_ref-104" class="reference"><a href="#cite_note-104">[103]</a></sup>
+<td>21日武汉市新增105例，死亡3例，出院3例。湖北省累计375例，其中出院28例、重症65例、危重症23例、死亡9例<sup id="cite_ref-106" class="reference"><a href="#cite_note-106">[105]</a></sup>
 </td></tr>
 <tr>
-<td>晚间10时通报截至当天20时，新增69例，死亡8例。湖北省累计444例，其中死亡17例<sup id="cite_ref-105" class="reference"><a href="#cite_note-105">[104]</a></sup>
+<td>晚间10时通报截至当天20时，新增69例，死亡8例。湖北省累计444例，其中死亡17例<sup id="cite_ref-107" class="reference"><a href="#cite_note-107">[106]</a></sup>
 </td>
 <td>湖北省人民政府
 </td></tr>
 <tr>
-<td>2020-01-23
+<td>2020-01-24
 </td>
-<td>23日新增新型冠状病毒感染的肺炎病例105例（武汉市70例、荆门市7例、荆州市2例、孝感市首次发现22例、仙桃市首次发现2例、宜昌市首次发现1例、十堰市首次发现1例）。全省新增死亡7例（武汉市6例、宜昌市1例）。武汉市治愈出院3例。累计549例，其中出院31例、重症106例、危重症23例、死亡24例。<sup id="cite_ref-106" class="reference"><a href="#cite_note-106">[105]</a></sup>
+<td>23日新增新型冠状病毒感染的肺炎病例105例（武汉市70例、荆门市7例、荆州市2例、孝感市首次发现22例、仙桃市首次发现2例、宜昌市首次发现1例、十堰市首次发现1例）。全省新增死亡7例（武汉市6例、宜昌市1例）。武汉市治愈出院3例。累计549例，其中出院31例、重症106例、危重症23例、死亡24例。<sup id="cite_ref-108" class="reference"><a href="#cite_note-108">[107]</a></sup>
 </td>
-<td>湖北省卫生健康委员会
+<td rowspan="2">湖北省卫生健康委员会
+</td></tr>
+<tr>
+<td rowspan="2">2020-01-25
+</td>
+<td>24日新增新型冠状病毒感染的肺炎病例180例（武汉市新增77例、十堰市新增4例、荆门市新增13例、孝感市新增4例、黄冈市新增52例、荆州市新增2例、仙桃市新增8例，随州市首次发现5例、恩施州首次发现11例、鄂州市首次发现1例、天门市首次发现3例）。全省新增死亡15例，全为武汉市病例。武汉市治愈出院1例。累计729例，（其中武汉市572例、十堰市5例、宜昌市1例、鄂州市1例、荆门市21例、孝感市26例、荆州市10例、黄冈市64例、随州市5例、恩施州11 例、仙桃市10例、天门市3例），已治愈出院32例，死亡39例（其中武汉市38例，宜昌市1例）<sup id="cite_ref-hubei0124_109-0" class="reference"><a href="#cite_note-hubei0124-109">[108]</a></sup>。
+</td></tr>
+<tr>
+<td>黄石市报告确诊新型冠状病毒感染的肺炎病例31例，其中死亡1例<sup id="cite_ref-110" class="reference"><a href="#cite_note-110">[109]</a></sup>。
+</td>
+<td>黄石市防控指挥部
 </td></tr>
 <tr>
 <td rowspan="3"><span class="flagicon"><a href="/wiki/%E6%B3%B0%E5%9B%BD" title="泰国"><img alt="泰国" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/22px-Flag_of_Thailand.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/33px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/44px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B3%B0%E5%9C%8B" class="mw-redirect" title="泰国">泰国</a></span>
 </td>
 <td>2020-01-13
 </td>
-<td>于1月8日武汉-曼谷航班，检测出疑似病例，61岁中华人民共和国国籍女性。后经实验室确认为新型冠状病毒。报道发布时情况稳定好转。<sup id="cite_ref-107" class="reference"><a href="#cite_note-107">[106]</a></sup>
+<td>于1月8日武汉-曼谷航班，检测出疑似病例，61岁中华人民共和国国籍女性。后经实验室确认为新型冠状病毒。报道发布时情况稳定好转。<sup id="cite_ref-111" class="reference"><a href="#cite_note-111">[110]</a></sup>
 </td>
 <td rowspan="3"><a href="/wiki/%E6%B3%B0%E5%9C%8B%E5%85%AC%E5%85%B1%E8%A1%9B%E7%94%9F%E9%83%A8" title="泰国公共卫生部">泰国公共卫生部</a>
 </td></tr>
 <tr>
 <td>2020-01-17
 </td>
-<td>74岁中华人民共和国籍女子，其于1月13日抵达泰国，为泰国境内第二例确诊病例。<sup id="cite_ref-108" class="reference"><a href="#cite_note-108">[107]</a></sup>
+<td>74岁中华人民共和国籍女子，其于1月13日抵达泰国，为泰国境内第二例确诊病例。<sup id="cite_ref-112" class="reference"><a href="#cite_note-112">[111]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-22
 </td>
-<td>佛统府首宗确诊病例，泰国第4宗个案及首例泰国籍人士，2019年去武汉旅游返国后感到不适就诊。<br>泰国所有个案均与高风险地区人员有接触史。两位中国患者已经治愈，分别在18日、21日回国。另两位患者正在泰国接受治疗。<sup id="cite_ref-109" class="reference"><a href="#cite_note-109">[108]</a></sup>
+<td>佛统府首宗确诊病例，泰国第4宗个案及首例泰国籍人士，2019年去武汉旅游返国后感到不适就诊。<br>泰国所有个案均与高风险地区人员有接触史。两位中国患者已经治愈，分别在18日、21日回国。另两位患者正在泰国接受治疗。<sup id="cite_ref-113" class="reference"><a href="#cite_note-113">[112]</a></sup>
 </td></tr>
 <tr>
 <td rowspan="2"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/33px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/44px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/%E6%97%A5%E6%9C%AC" title="日本">日本</a>
 </td>
 <td>2020-01-16
 </td>
-<td><a href="/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%B8%A3" title="神奈川县">神奈川县</a>，30+岁中华人民共和国籍男性，曾到访武汉，但没有去过华南海鲜批发市场。1月3日出现发热，6日回到日本。15日已经出院，但在中国的家人仍在进行观察。<sup id="cite_ref-110" class="reference"><a href="#cite_note-110">[109]</a></sup><sup id="cite_ref-111" class="reference"><a href="#cite_note-111">[110]</a></sup>
+<td><a href="/wiki/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%B8%A3" title="神奈川县">神奈川县</a>，30+岁中华人民共和国籍男性，曾到访武汉，但没有去过华南海鲜批发市场。1月3日出现发热，6日回到日本。15日已经出院，但在中国的家人仍在进行观察。<sup id="cite_ref-114" class="reference"><a href="#cite_note-114">[113]</a></sup><sup id="cite_ref-115" class="reference"><a href="#cite_note-115">[114]</a></sup>
 </td>
 <td rowspan="2"><a href="/wiki/%E5%8E%9A%E7%94%9F%E5%8B%9E%E5%8B%95%E7%9C%81" title="厚生劳动省">日本厚生劳动省</a>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td><a href="/wiki/%E4%B8%9C%E4%BA%AC" title="东京">东京都</a>，1月24日，日本厚生劳动省通报境内出现第2例确诊病例，40岁左右男性，武汉居民。该男性于14日开始出现发烧等相关症状，期间曾前往中国当地医院检查，但并未被诊断为新型肺炎。19日抵达日本，期间喉咙痛等症状持续，22日前往日本当地医院就诊，24日被确认感染新型肺炎。<sup id="cite_ref-112" class="reference"><a href="#cite_note-112">[111]</a></sup>
+<td><a href="/wiki/%E4%B8%9C%E4%BA%AC" title="东京">东京都</a>，1月24日，日本厚生劳动省通报境内出现第2例确诊病例，40岁左右男性，武汉居民。该男性于14日开始出现发烧等相关症状，期间曾前往中国当地医院检查，但并未被诊断为新型肺炎。19日抵达日本，期间喉咙痛等症状持续，22日前往日本当地医院就诊，24日被确认感染新型肺炎。<sup id="cite_ref-116" class="reference"><a href="#cite_note-116">[115]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="6"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%BB%A3%E6%9D%B1%E7%9C%81" class="mw-redirect" title="广东省">广东省</a></span>
+<td rowspan="7"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%BB%A3%E6%9D%B1%E7%9C%81" class="mw-redirect" title="广东省">广东省</a></span>
 </td>
 <td rowspan="2">2020-01-20
 </td>
-<td><a href="/wiki/%E6%B7%B1%E5%9C%B3%E5%B8%82" title="深圳市">深圳市</a>66岁男性，曾到访武汉。1月3日出现发热，4日回到深圳。11日转移至隔离医院，18日标本送<a href="/wiki/%E4%B8%AD%E5%9B%BD%E7%96%BE%E6%8E%A7%E4%B8%AD%E5%BF%83" class="mw-redirect" title="中国疾控中心">中国疾控中心</a>检测呈阳性，19日正式确认感染<sup id="cite_ref-guangdong1st_113-0" class="reference"><a href="#cite_note-guangdong1st-113">[112]</a></sup>。
+<td><a href="/wiki/%E6%B7%B1%E5%9C%B3%E5%B8%82" title="深圳市">深圳市</a>66岁男性，曾到访武汉。1月3日出现发热，4日回到深圳。11日转移至隔离医院，18日标本送<a href="/wiki/%E4%B8%AD%E5%9B%BD%E7%96%BE%E6%8E%A7%E4%B8%AD%E5%BF%83" class="mw-redirect" title="中国疾控中心">中国疾控中心</a>检测呈阳性，19日正式确认感染<sup id="cite_ref-guangdong1st_117-0" class="reference"><a href="#cite_note-guangdong1st-117">[116]</a></sup>。
 </td>
-<td rowspan="6">广东省卫生健康委员会
+<td rowspan="7">广东省卫生健康委员会
 </td></tr>
 <tr>
-<td>晚间通报新增13例，累计14例。新增中深圳8例、<a href="/wiki/%E7%8F%A0%E6%B5%B7" class="mw-redirect" title="珠海">珠海</a>3例、<a href="/wiki/%E6%B9%9B%E6%B1%9F" class="mw-redirect" title="湛江">湛江</a>、<a href="/wiki/%E6%83%A0%E5%B7%9E" class="mw-redirect" title="惠州">惠州</a>各1例，11例去过武汉，2例有与病例密切接触史，危重症2例，重症4例。<sup id="cite_ref-114" class="reference"><a href="#cite_note-114">[113]</a></sup>
+<td>晚间通报新增13例，累计14例。新增中深圳8例、<a href="/wiki/%E7%8F%A0%E6%B5%B7" class="mw-redirect" title="珠海">珠海</a>3例、<a href="/wiki/%E6%B9%9B%E6%B1%9F" class="mw-redirect" title="湛江">湛江</a>、<a href="/wiki/%E6%83%A0%E5%B7%9E" class="mw-redirect" title="惠州">惠州</a>各1例，11例去过武汉，2例有与病例密切接触史，危重症2例，重症4例。<sup id="cite_ref-118" class="reference"><a href="#cite_note-118">[117]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-21
 </td>
-<td>新增3例，累计17例。新增分别在深圳、珠海和湛江，2女1男，1例重症。3人均有湖北旅行或居住史<sup id="cite_ref-gd2877668_115-0" class="reference"><a href="#cite_note-gd2877668-115">[114]</a></sup>。
+<td>新增3例，累计17例。新增分别在深圳、珠海和湛江，2女1男，1例重症。3人均有湖北旅行或居住史<sup id="cite_ref-gd2877668_119-0" class="reference"><a href="#cite_note-gd2877668-119">[118]</a></sup>。
 </td></tr>
 <tr>
 <td>2020-01-22
 </td>
-<td>新增9例，累计26例。<sup id="cite_ref-116" class="reference"><a href="#cite_note-116">[115]</a></sup>
+<td>新增9例，累计26例。<sup id="cite_ref-120" class="reference"><a href="#cite_note-120">[119]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>新增6例，累计32例。<sup id="cite_ref-117" class="reference"><a href="#cite_note-117">[116]</a></sup>
+<td>新增6例，累计32例。<sup id="cite_ref-121" class="reference"><a href="#cite_note-121">[120]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增21例，其中阳江3例（首次报告）、清远1例（首次报告）、广州2例、珠海4例、佛山5例、韶关1例、惠州4例、中山1例，累计53例<sup id="cite_ref-118" class="reference"><a href="#cite_note-118">[117]</a></sup>。
+<td>新增21例，其中阳江3例（首次报告）、清远1例（首次报告）、广州2例、珠海4例、佛山5例、韶关1例、惠州4例、中山1例，累计53例<sup id="cite_ref-122" class="reference"><a href="#cite_note-122">[121]</a></sup>。
 </td></tr>
 <tr>
-<td rowspan="7"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82" title="北京市">北京市</a></span>
+<td>2020-01-25
+</td>
+<td>新增25例，其中重症病例1例，汕头1例（首次报告）、东莞1例（首次报告）、广州7例、深圳5例、珠海2例、佛山3例、惠州2例、阳江2例、肇庆1例、清远1例。截至1月24日24时累计报告78例<sup id="cite_ref-123" class="reference"><a href="#cite_note-123">[122]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="10"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%8C%97%E4%BA%AC%E5%B8%82" title="北京市">北京市</a></span>
 </td>
 <td rowspan="2">2020-01-20
 </td>
-<td>2名发热患者确诊感染新型冠状病毒，曾到访武汉，已隔离治疗，无呼吸道症状。<sup id="cite_ref-119" class="reference"><a href="#cite_note-119">[118]</a></sup><sup id="cite_ref-120" class="reference"><a href="#cite_note-120">[119]</a></sup>
+<td>2名发热患者确诊感染新型冠状病毒，曾到访武汉，已隔离治疗，无呼吸道症状。<sup id="cite_ref-124" class="reference"><a href="#cite_note-124">[123]</a></sup><sup id="cite_ref-125" class="reference"><a href="#cite_note-125">[124]</a></sup>
 </td>
 <td>北京市大兴区卫生健康委员会
 </td></tr>
 <tr>
-<td>晚间通报新增3例，累计5例。新增中2名平稳，1名危重，均去过武汉，于1月13日左右出现症状。<sup id="cite_ref-200120NewAdd_121-0" class="reference"><a href="#cite_note-200120NewAdd-121">[120]</a></sup><sup id="cite_ref-122" class="reference"><a href="#cite_note-122">[121]</a></sup>
+<td>晚间通报新增3例，累计5例。新增中2名平稳，1名危重，均去过武汉，于1月13日左右出现症状。<sup id="cite_ref-200120NewAdd_126-0" class="reference"><a href="#cite_note-200120NewAdd-126">[125]</a></sup><sup id="cite_ref-127" class="reference"><a href="#cite_note-127">[126]</a></sup>
 </td>
-<td rowspan="6">北京市卫生健康委员会
+<td rowspan="9">北京市卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-21
 </td>
-<td>新增5例新型冠状病毒感染的肺炎病例，均前往过武汉。至此共确诊10例新型冠状病毒感染的肺炎病例。<sup id="cite_ref-beijing200121_123-0" class="reference"><a href="#cite_note-beijing200121-123">[122]</a></sup>
+<td>新增5例新型冠状病毒感染的肺炎病例，均前往过武汉。至此共确诊10例新型冠状病毒感染的肺炎病例。<sup id="cite_ref-beijing200121_128-0" class="reference"><a href="#cite_note-beijing200121-128">[127]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-22
 </td>
-<td>新增4例，累计14例。1月20日左右就诊。均去过武汉。<sup id="cite_ref-bj1620784_124-0" class="reference"><a href="#cite_note-bj1620784-124">[123]</a></sup>
+<td>新增4例，累计14例。1月20日左右就诊。均去过武汉。<sup id="cite_ref-bj1620784_129-0" class="reference"><a href="#cite_note-bj1620784-129">[128]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>新增8例，累计22例<sup id="cite_ref-125" class="reference"><a href="#cite_note-125">[124]</a></sup>。
+<td>新增8例，累计22例<sup id="cite_ref-130" class="reference"><a href="#cite_note-130">[129]</a></sup>。
 </td></tr>
 <tr>
-<td rowspan="2">2020-01-24
+<td rowspan="4">2020-01-24
 </td>
-<td>凌晨通报新增4例，累计26例。<sup id="cite_ref-126" class="reference"><a href="#cite_note-126">[125]</a></sup>
+<td>凌晨通报新增4例，累计26例。<sup id="cite_ref-131" class="reference"><a href="#cite_note-131">[130]</a></sup>
 </td></tr>
 <tr>
-<td>下午通报新增3例，累计29例。<sup id="cite_ref-127" class="reference"><a href="#cite_note-127">[126]</a></sup>
+<td>下午2时通报新增3例，累计29例。<sup id="cite_ref-132" class="reference"><a href="#cite_note-132">[131]</a></sup>
+</td></tr>
+<tr>
+<td>下午5时通报新增5例，累计34例。<sup id="cite_ref-133" class="reference"><a href="#cite_note-133">[132]</a></sup>
+</td></tr>
+<tr>
+<td>晚间通报新增2例，累计36例。<sup id="cite_ref-134" class="reference"><a href="#cite_note-134">[133]</a></sup>
+</td></tr>
+<tr>
+<td>2020-01-25
+</td>
+<td>新增5例，其中有2例为无湖北接触史的病例。累计41例。<sup id="cite_ref-135" class="reference"><a href="#cite_note-135">[134]</a></sup>
 </td></tr>
 <tr>
 <td rowspan="2"><span class="flagicon"><a href="/wiki/%E5%A4%A7%E9%9F%A9%E6%B0%91%E5%9B%BD" title="大韩民国"><img alt="大韩民国" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/22px-Flag_of_South_Korea.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/33px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/44px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E9%9F%A9%E5%9B%BD" class="mw-redirect" title="韩国">韩国</a></span>
 </td>
 <td>2020-01-20
 </td>
-<td><a href="/wiki/%E4%BB%81%E5%B7%9D%E5%BB%A3%E5%9F%9F%E5%B8%82" title="仁川广域市">仁川广域市</a>1例确诊病例，35岁中华人民共和国籍女子，19日从中国武汉通过<a href="/wiki/%E4%BB%81%E5%B7%9D%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA" class="mw-redirect" title="仁川国际机场">仁川国际机场</a>入境<sup id="cite_ref-128" class="reference"><a href="#cite_note-128">[127]</a></sup>。
+<td><a href="/wiki/%E4%BB%81%E5%B7%9D%E5%BB%A3%E5%9F%9F%E5%B8%82" title="仁川广域市">仁川广域市</a>1例确诊病例，35岁中华人民共和国籍女子，19日从中国武汉通过<a href="/wiki/%E4%BB%81%E5%B7%9D%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA" class="mw-redirect" title="仁川国际机场">仁川国际机场</a>入境<sup id="cite_ref-136" class="reference"><a href="#cite_note-136">[135]</a></sup>。
 </td>
 <td rowspan="2"><span class="ilh-all" data-orig-title="韩国疾病管理本部" data-lang-code="ko" data-lang-name="朝鲜语" data-foreign-title="질병관리본부"><span class="ilh-page"><a href="/w/index.php?title=%E9%9F%A9%E5%9B%BD%E7%96%BE%E7%97%85%E7%AE%A1%E7%90%86%E6%9C%AC%E9%83%A8&amp;action=edit&amp;redlink=1" class="new" original-title="韩国疾病管理本部（页面不存在）">韩国疾病管理本部</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">朝鲜语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://ko.wikipedia.org/wiki/%EC%A7%88%EB%B3%91%EA%B4%80%EB%A6%AC%EB%B3%B8%EB%B6%80" class="extiw" title="ko:질병관리본부"><span lang="ko" dir="auto">질병관리본부</span></a></span>）</span></span>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>韩联社报道韩国境内出现第2例确诊病例。<sup id="cite_ref-129" class="reference"><a href="#cite_note-129">[128]</a></sup>
+<td>韩联社报道韩国境内出现第2例确诊病例。<sup id="cite_ref-137" class="reference"><a href="#cite_note-137">[136]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="6"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82" title="上海市">上海市</a></span>
+<td rowspan="7"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82" title="上海市">上海市</a></span>
 </td>
 <td>2020-01-20
 </td>
-<td>1例输入性病例，患者为56岁女性，1月12日由<a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%88%B6%E7%B1%8D%E5%88%B6%E5%BA%A6" class="mw-redirect" title="中华人民共和国户籍制度">户籍地</a>湖北武汉前往上海，15日就诊后入院隔离，20日获<a href="/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E5%91%98%E4%BC%9A" title="中华人民共和国国家卫生健康委员会">国家卫健委</a>确认为病例。<sup id="cite_ref-:5_130-0" class="reference"><a href="#cite_note-:5-130">[129]</a></sup>
+<td>1例输入性病例，患者为56岁女性，1月12日由<a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B%E6%88%B6%E7%B1%8D%E5%88%B6%E5%BA%A6" class="mw-redirect" title="中华人民共和国户籍制度">户籍地</a>湖北武汉前往上海，15日就诊后入院隔离，20日获<a href="/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E5%91%98%E4%BC%9A" title="中华人民共和国国家卫生健康委员会">国家卫健委</a>确认为病例。<sup id="cite_ref-:5_138-0" class="reference"><a href="#cite_note-:5-138">[137]</a></sup>
 </td>
-<td rowspan="6"><a href="/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E5%91%98%E4%BC%9A" title="上海市卫生健康委员会">上海市卫生健康委员会</a>
+<td rowspan="7"><a href="/wiki/%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E5%91%98%E4%BC%9A" title="上海市卫生健康委员会">上海市卫生健康委员会</a>
 </td></tr>
 <tr>
 <td rowspan="2">2020-01-21
 </td>
-<td>确诊第二例输入性病例。患者为35岁男性，1月8日晚前往武汉，1月11日返户籍地上海后出现发热、咳嗽、流涕等症状，1月16日在上海市一发热门诊就诊后被收治入院隔离治疗。<sup id="cite_ref-131" class="reference"><a href="#cite_note-131">[130]</a></sup>
+<td>确诊第二例输入性病例。患者为35岁男性，1月8日晚前往武汉，1月11日返户籍地上海后出现发热、咳嗽、流涕等症状，1月16日在上海市一发热门诊就诊后被收治入院隔离治疗。<sup id="cite_ref-139" class="reference"><a href="#cite_note-139">[138]</a></sup>
 </td></tr>
 <tr>
-<td>晚间通报新增4例，累计6例。新增中上海户籍2例，武汉户籍2例，3例去过武汉，1例是密切接触者。<sup id="cite_ref-132" class="reference"><a href="#cite_note-132">[131]</a></sup>
+<td>晚间通报新增4例，累计6例。新增中上海户籍2例，武汉户籍2例，3例去过武汉，1例是密切接触者。<sup id="cite_ref-140" class="reference"><a href="#cite_note-140">[139]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-22
 </td>
-<td>早间通报新增3例，累计9例。新增3例均为上海户籍，有武汉旅行史。<sup id="cite_ref-:6_133-0" class="reference"><a href="#cite_note-:6-133">[132]</a></sup>
+<td>早间通报新增3例，累计9例。新增3例均为上海户籍，有武汉旅行史。<sup id="cite_ref-:6_141-0" class="reference"><a href="#cite_note-:6-141">[140]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>通报新增7例，累计16例。新增7例为男性4例、女性3例。<sup id="cite_ref-134" class="reference"><a href="#cite_note-134">[133]</a></sup>
+<td>通报新增7例，累计16例。新增7例为男性4例、女性3例。<sup id="cite_ref-142" class="reference"><a href="#cite_note-142">[141]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>通报新增4例，累计20例。<sup id="cite_ref-135" class="reference"><a href="#cite_note-135">[134]</a></sup>
+<td>通报新增4例，累计20例。<sup id="cite_ref-143" class="reference"><a href="#cite_note-143">[142]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B5%99%E6%B1%9F%E7%9C%81" title="浙江省">浙江省</a></span>
+<td>2020-01-25
+</td>
+<td>通报新增13例，累计33例。<sup id="cite_ref-144" class="reference"><a href="#cite_note-144">[143]</a></sup>
+</td></tr>
+<tr>
+<td rowspan="5"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B5%99%E6%B1%9F%E7%9C%81" title="浙江省">浙江省</a></span>
 </td>
 <td>2020-01-21
 </td>
-<td>共出现5例确诊病例。国家确认1例，省专家组确诊4例。其中<a href="/wiki/%E6%9D%AD%E5%B7%9E" class="mw-redirect" title="杭州">杭州</a>1例，<a href="/wiki/%E6%B8%A9%E5%B7%9E" class="mw-redirect" title="温州">温州</a>2例，<a href="/wiki/%E8%88%9F%E5%B1%B1" class="mw-redirect" title="舟山">舟山</a>1例，<a href="/wiki/%E5%8F%B0%E5%B7%9E" class="mw-redirect" title="台州">台州</a>1例。所有人均去过武汉，病情平稳。<sup id="cite_ref-zhejiang1st_136-0" class="reference"><a href="#cite_note-zhejiang1st-136">[135]</a></sup>
+<td>共出现5例确诊病例。国家确认1例，省专家组确诊4例。其中<a href="/wiki/%E6%9D%AD%E5%B7%9E" class="mw-redirect" title="杭州">杭州</a>1例，<a href="/wiki/%E6%B8%A9%E5%B7%9E" class="mw-redirect" title="温州">温州</a>2例，<a href="/wiki/%E8%88%9F%E5%B1%B1" class="mw-redirect" title="舟山">舟山</a>1例，<a href="/wiki/%E5%8F%B0%E5%B7%9E" class="mw-redirect" title="台州">台州</a>1例。所有人均去过武汉，病情平稳。<sup id="cite_ref-zhejiang1st_145-0" class="reference"><a href="#cite_note-zhejiang1st-145">[144]</a></sup>
 </td>
-<td rowspan="4">浙江省卫生健康委员会
+<td rowspan="5">浙江省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-22
 </td>
-<td>新增5例，累计10例。新增中<a href="/wiki/%E5%AF%A7%E6%B3%A2" class="mw-redirect" title="宁波">宁波</a>3例，温州2例。所有人均去过武汉<sup id="cite_ref-zj41813902_137-0" class="reference"><a href="#cite_note-zj41813902-137">[136]</a></sup>。
+<td>新增5例，累计10例。新增中<a href="/wiki/%E5%AF%A7%E6%B3%A2" class="mw-redirect" title="宁波">宁波</a>3例，温州2例。所有人均去过武汉<sup id="cite_ref-zj41813902_146-0" class="reference"><a href="#cite_note-zj41813902-146">[145]</a></sup>。
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>新增17例，累计27例<sup id="cite_ref-zhe123_138-0" class="reference"><a href="#cite_note-zhe123-138">[137]</a></sup>。
+<td>新增17例，累计27例<sup id="cite_ref-zhe123_147-0" class="reference"><a href="#cite_note-zhe123-147">[146]</a></sup>。
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增16例，累计43例<sup id="cite_ref-zhe124_139-0" class="reference"><a href="#cite_note-zhe124-139">[138]</a></sup>。
+<td>新增16例，累计43例<sup id="cite_ref-zhe124_148-0" class="reference"><a href="#cite_note-zhe124-148">[147]</a></sup>。
+</td></tr>
+<tr>
+<td>2020-01-25
+</td>
+<td>新增19例，累计62例<sup id="cite_ref-149" class="reference"><a href="#cite_note-149">[148]</a></sup>。
 </td></tr>
 <tr>
 <td rowspan="2"><span class="flagicon"><a href="/wiki/%E8%87%BA%E7%81%A3" title="台湾"><img alt="台湾" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/22px-Flag_of_the_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/33px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/44px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/%E5%8F%B0%E7%81%A3" class="mw-redirect" title="台湾">台湾</a>
 </td>
 <td>2020-01-21
 </td>
-<td><a href="/wiki/%E8%A1%9B%E7%94%9F%E7%A6%8F%E5%88%A9%E9%83%A8%E7%96%BE%E7%97%85%E7%AE%A1%E5%88%B6%E7%BD%B2" title="卫生福利部疾病管制署">卫生福利部疾病管制署</a>确诊1例，该例为一名由武汉返台的台商。<sup id="cite_ref-140" class="reference"><a href="#cite_note-140">[139]</a></sup><sup id="cite_ref-141" class="reference"><a href="#cite_note-141">[140]</a></sup>
+<td><a href="/wiki/%E8%A1%9B%E7%94%9F%E7%A6%8F%E5%88%A9%E9%83%A8%E7%96%BE%E7%97%85%E7%AE%A1%E5%88%B6%E7%BD%B2" title="卫生福利部疾病管制署">卫生福利部疾病管制署</a>确诊1例，该例为一名由武汉返台的台商。<sup id="cite_ref-150" class="reference"><a href="#cite_note-150">[149]</a></sup><sup id="cite_ref-151" class="reference"><a href="#cite_note-151">[150]</a></sup>
 </td>
 <td rowspan="2"><a href="/wiki/%E8%A1%9B%E7%94%9F%E7%A6%8F%E5%88%A9%E9%83%A8%E7%96%BE%E7%97%85%E7%AE%A1%E5%88%B6%E7%BD%B2" title="卫生福利部疾病管制署">卫生福利部疾病管制署</a>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>中央流行疫情指挥中心通报台湾再多2例确诊个案，累计个案增至3例。均为境外移入，1月21日入境，1月23日就医，分别是50多岁<a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" class="mw-redirect" title="中华人民共和国">中华人民共和国</a>籍女性及50多岁中华民国籍男性，其中男性20日有感冒症状。2例个案均有武汉旅游或居住史，在医院负压隔离病房治疗。<sup id="cite_ref-142" class="reference"><a href="#cite_note-142">[141]</a></sup>
+<td>中央流行疫情指挥中心通报台湾再多2例确诊个案，累计个案增至3例。均为境外移入，1月21日入境，1月23日就医，分别是50多岁<a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B" class="mw-redirect" title="中华人民共和国">中华人民共和国</a>籍女性及50多岁中华民国籍男性，其中男性20日有感冒症状。2例个案均有武汉旅游或居住史，在医院负压隔离病房治疗。<sup id="cite_ref-152" class="reference"><a href="#cite_note-152">[151]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%A4%A9%E6%B4%A5%E5%B8%82" title="天津市">天津市</a></span>
+<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%A4%A9%E6%B4%A5%E5%B8%82" title="天津市">天津市</a></span>
 </td>
 <td>2020-01-21
 </td>
-<td>共出现2例确诊病例。分别是60岁女性及58岁男性，1月19日及1月14日从武汉返回天津就诊后被隔离。<sup id="cite_ref-tianjin1st_143-0" class="reference"><a href="#cite_note-tianjin1st-143">[142]</a></sup>
+<td>共出现2例确诊病例。分别是60岁女性及58岁男性，1月19日及1月14日从武汉返回天津就诊后被隔离。<sup id="cite_ref-tianjin1st_153-0" class="reference"><a href="#cite_note-tianjin1st-153">[152]</a></sup>
 </td>
-<td rowspan="3">天津市卫生健康委员会
+<td rowspan="4">天津市卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-22
 </td>
-<td>截至22日12时，天津市新增2例新型冠状病毒感染的肺炎确诊病例，累计4例。<sup id="cite_ref-tianjin2nd_144-0" class="reference"><a href="#cite_note-tianjin2nd-144">[143]</a></sup><sup id="cite_ref-145" class="reference"><a href="#cite_note-145">[144]</a></sup>
+<td>截至22日12时，天津市新增2例新型冠状病毒感染的肺炎确诊病例，累计4例。<sup id="cite_ref-tianjin2nd_154-0" class="reference"><a href="#cite_note-tianjin2nd-154">[153]</a></sup><sup id="cite_ref-155" class="reference"><a href="#cite_note-155">[154]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增1例，累计5例<sup id="cite_ref-146" class="reference"><a href="#cite_note-146">[145]</a></sup>
+<td>新增1例，累计5例<sup id="cite_ref-156" class="reference"><a href="#cite_note-156">[155]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B2%B3%E5%8D%97%E7%9C%81" title="河南省">河南省</a></span>
+<td>2020-01-25
+</td>
+<td>先后三次通报新增3例、1例、1例确诊病例，累计10例<sup id="cite_ref-157" class="reference"><a href="#cite_note-157">[156]</a></sup><sup id="cite_ref-158" class="reference"><a href="#cite_note-158">[157]</a></sup><sup id="cite_ref-159" class="reference"><a href="#cite_note-159">[158]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B2%B3%E5%8D%97%E7%9C%81" title="河南省">河南省</a></span>
 </td>
 <td>2020-01-21
 </td>
-<td>共出现1例确诊病例。66岁男性，武汉工作，29日出现症状，1月7日返回<a href="/wiki/%E5%91%A8%E5%8F%A3" class="mw-redirect" title="周口">周口</a>就诊，10日转至<a href="/wiki/%E9%84%AD%E5%B7%9E" class="mw-redirect" title="郑州">郑州</a>，20日隔离，21日确诊。<sup id="cite_ref-henan1st_147-0" class="reference"><a href="#cite_note-henan1st-147">[146]</a></sup>
+<td>共出现1例确诊病例。66岁男性，武汉工作，29日出现症状，1月7日返回<a href="/wiki/%E5%91%A8%E5%8F%A3" class="mw-redirect" title="周口">周口</a>就诊，10日转至<a href="/wiki/%E9%84%AD%E5%B7%9E" class="mw-redirect" title="郑州">郑州</a>，20日隔离，21日确诊。<sup id="cite_ref-henan1st_160-0" class="reference"><a href="#cite_note-henan1st-160">[159]</a></sup>
 </td>
-<td rowspan="3">河南省卫生健康委员会
+<td rowspan="4">河南省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-22
 </td>
-<td>新增4例，累计5例。<a href="/wiki/%E9%83%91%E5%B7%9E%E5%B8%82" title="郑州市">郑州市</a>2例、<a href="/wiki/%E6%B4%9B%E9%98%B3%E5%B8%82" title="洛阳市">洛阳市</a>1例、<a href="/wiki/%E4%B8%89%E9%97%A8%E5%B3%A1%E5%B8%82" title="三门峡市">三门峡市</a>1例、<a href="/wiki/%E5%B7%A9%E4%B9%89%E5%B8%82" title="巩义市">巩义市</a>1例<sup id="cite_ref-hn47952_148-0" class="reference"><a href="#cite_note-hn47952-148">[147]</a></sup>。
+<td>新增4例，累计5例。<a href="/wiki/%E9%83%91%E5%B7%9E%E5%B8%82" title="郑州市">郑州市</a>2例、<a href="/wiki/%E6%B4%9B%E9%98%B3%E5%B8%82" title="洛阳市">洛阳市</a>1例、<a href="/wiki/%E4%B8%89%E9%97%A8%E5%B3%A1%E5%B8%82" title="三门峡市">三门峡市</a>1例、<a href="/wiki/%E5%B7%A9%E4%B9%89%E5%B8%82" title="巩义市">巩义市</a>1例<sup id="cite_ref-hn47952_161-0" class="reference"><a href="#cite_note-hn47952-161">[160]</a></sup>。
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增确诊病例4例，累计9例<sup id="cite_ref-149" class="reference"><a href="#cite_note-149">[148]</a></sup>。
+<td>新增确诊病例4例，累计9例<sup id="cite_ref-162" class="reference"><a href="#cite_note-162">[161]</a></sup>。
 </td></tr>
 <tr>
-<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E9%87%8D%E5%BA%86%E5%B8%82" title="重庆市">重庆市</a></span>
+<td>2020-01-25
+</td>
+<td>新增确诊病例23例，累计32例<sup id="cite_ref-163" class="reference"><a href="#cite_note-163">[162]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="5"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E9%87%8D%E5%BA%86%E5%B8%82" title="重庆市">重庆市</a></span>
 </td>
 <td>2020-01-21
 </td>
-<td>共出现5例确诊病例。<a href="/wiki/%E5%B7%AB%E5%B1%B1%E5%8E%BF" title="巫山县">巫山县</a>2例、<a href="/wiki/%E4%B8%87%E5%B7%9E%E5%8C%BA" title="万州区">万州区</a>2例、<a href="/wiki/%E9%95%BF%E5%AF%BF%E5%8C%BA" title="长寿区">长寿区</a>1例。均有武汉工作或居住史，病情稳定。<sup id="cite_ref-150" class="reference"><a href="#cite_note-150">[149]</a></sup>
+<td>共出现5例确诊病例。<a href="/wiki/%E5%B7%AB%E5%B1%B1%E5%8E%BF" title="巫山县">巫山县</a>2例、<a href="/wiki/%E4%B8%87%E5%B7%9E%E5%8C%BA" title="万州区">万州区</a>2例、<a href="/wiki/%E9%95%BF%E5%AF%BF%E5%8C%BA" title="长寿区">长寿区</a>1例。均有武汉工作或居住史，病情稳定。<sup id="cite_ref-164" class="reference"><a href="#cite_note-164">[163]</a></sup>
 </td>
-<td rowspan="4">重庆市卫生健康委员会
+<td rowspan="5">重庆市卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-22
 </td>
-<td>新增1例，累计6例。新增为<a href="/wiki/%E5%9E%AB%E6%B1%9F" class="mw-redirect" title="垫江">垫江</a>病例，有武汉工作或居住史。<sup id="cite_ref-cq249751_151-0" class="reference"><a href="#cite_note-cq249751-151">[150]</a></sup>
+<td>新增1例，累计6例。新增为<a href="/wiki/%E5%9E%AB%E6%B1%9F" class="mw-redirect" title="垫江">垫江</a>病例，有武汉工作或居住史。<sup id="cite_ref-cq249751_165-0" class="reference"><a href="#cite_note-cq249751-165">[164]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>新增3例，累计9例。<sup id="cite_ref-152" class="reference"><a href="#cite_note-152">[151]</a></sup>
+<td>新增3例，累计9例。<sup id="cite_ref-166" class="reference"><a href="#cite_note-166">[165]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增18例，累计27例。<sup id="cite_ref-153" class="reference"><a href="#cite_note-153">[152]</a></sup>
+<td>新增18例，累计27例。<sup id="cite_ref-167" class="reference"><a href="#cite_note-167">[166]</a></sup>
+</td></tr>
+<tr>
+<td>2020-01-24
+</td>
+<td>新增30例，累计57例。<sup id="cite_ref-168" class="reference"><a href="#cite_note-168">[167]</a></sup>
 </td></tr>
 <tr>
 <td rowspan="6"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%9B%9B%E5%B7%9D%E7%9C%81" title="四川省">四川省</a></span>
 </td>
 <td>2020-01-21
 </td>
-<td>共出现1例确诊病例。34岁男性，武汉工作，11日<a href="/wiki/%E6%88%90%E9%83%BD" class="mw-redirect" title="成都">成都</a>就诊被隔离，21日获国家确认为病例<sup id="cite_ref-sichuan1st_154-0" class="reference"><a href="#cite_note-sichuan1st-154">[153]</a></sup>。
+<td>共出现1例确诊病例。34岁男性，武汉工作，11日<a href="/wiki/%E6%88%90%E9%83%BD" class="mw-redirect" title="成都">成都</a>就诊被隔离，21日获国家确认为病例<sup id="cite_ref-sichuan1st_169-0" class="reference"><a href="#cite_note-sichuan1st-169">[168]</a></sup>。
 </td>
 <td rowspan="6">四川省卫生健康委员会
 </td></tr>
 <tr>
 <td rowspan="2">2020-01-22
 </td>
-<td>新增1例，累计2例。新增为57岁男性，常住武汉，15日返回<a href="/wiki/%E5%BB%A3%E5%AE%89" class="mw-redirect" title="广安">广安</a>，16日就诊被隔离，22日获省疾控中心确认为病例。<sup id="cite_ref-155" class="reference"><a href="#cite_note-155">[154]</a></sup>
+<td>新增1例，累计2例。新增为57岁男性，常住武汉，15日返回<a href="/wiki/%E5%BB%A3%E5%AE%89" class="mw-redirect" title="广安">广安</a>，16日就诊被隔离，22日获省疾控中心确认为病例。<sup id="cite_ref-170" class="reference"><a href="#cite_note-170">[169]</a></sup>
 </td></tr>
 <tr>
-<td>新增3例，累计5例。<a href="/wiki/%E6%88%90%E9%83%BD" class="mw-redirect" title="成都">成都</a>1例、<a href="/wiki/%E7%B6%BF%E9%99%BD" class="mw-redirect" title="绵阳">绵阳</a>2例。新增为28岁女性、37岁男性和19岁男性，均有武汉工作或居住史，病情稳定。<sup id="cite_ref-156" class="reference"><a href="#cite_note-156">[155]</a></sup>
+<td>新增3例，累计5例。<a href="/wiki/%E6%88%90%E9%83%BD" class="mw-redirect" title="成都">成都</a>1例、<a href="/wiki/%E7%B6%BF%E9%99%BD" class="mw-redirect" title="绵阳">绵阳</a>2例。新增为28岁女性、37岁男性和19岁男性，均有武汉工作或居住史，病情稳定。<sup id="cite_ref-171" class="reference"><a href="#cite_note-171">[170]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>新增3例，累计8例，<a href="/wiki/%E6%88%90%E9%83%BD" class="mw-redirect" title="成都">成都</a>2例、<a href="/wiki/%E8%BE%BE%E5%B7%9E" class="mw-redirect" title="达州">达州</a>1例，均为输入性<sup id="cite_ref-157" class="reference"><a href="#cite_note-157">[156]</a></sup>
+<td>新增3例，累计8例，<a href="/wiki/%E6%88%90%E9%83%BD" class="mw-redirect" title="成都">成都</a>2例、<a href="/wiki/%E8%BE%BE%E5%B7%9E" class="mw-redirect" title="达州">达州</a>1例，均为输入性<sup id="cite_ref-172" class="reference"><a href="#cite_note-172">[171]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增7例，累计15例，其中成都市7例。共累计医学观察188人<sup id="cite_ref-158" class="reference"><a href="#cite_note-158">[157]</a></sup>
+<td>新增7例，累计15例，其中成都市7例。共累计医学观察188人<sup id="cite_ref-173" class="reference"><a href="#cite_note-173">[172]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-25
 </td>
-<td>新增13例，累计确诊病例28例，其中成都市16例。28名患者中，危重症2人，共医学观察371人<sup id="cite_ref-159" class="reference"><a href="#cite_note-159">[158]</a></sup>
+<td>新增13例，累计确诊病例28例，其中成都市16例。28名患者中，危重症2人，共医学观察371人<sup id="cite_ref-174" class="reference"><a href="#cite_note-174">[173]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%B1%B1%E6%9D%B1%E7%9C%81" class="mw-redirect" title="山东省">山东省</a></span>
+<td rowspan="5"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%B1%B1%E6%9D%B1%E7%9C%81" class="mw-redirect" title="山东省">山东省</a></span>
 </td>
 <td>2020-01-21
 </td>
-<td>共出现1例确诊病例。37岁男性，武汉人，17日在工作地<a href="/wiki/%E6%97%A5%E7%85%A7%E5%B8%82" title="日照市">日照</a>就诊，发病前2星期曾在武汉居住，21日获国家确认为病例。<sup id="cite_ref-shandong1st_160-0" class="reference"><a href="#cite_note-shandong1st-160">[159]</a></sup>
+<td>共出现1例确诊病例。37岁男性，武汉人，17日在工作地<a href="/wiki/%E6%97%A5%E7%85%A7%E5%B8%82" title="日照市">日照</a>就诊，发病前2星期曾在武汉居住，21日获国家确认为病例。<sup id="cite_ref-shandong1st_175-0" class="reference"><a href="#cite_note-shandong1st-175">[174]</a></sup>
 </td>
-<td rowspan="4">山东省卫生健康委员会
+<td rowspan="5">山东省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-22
 </td>
-<td>新增5例，累计6例。威海新增1例新增为38岁男性，<a href="/wiki/%E6%B5%99%E6%B1%9F" class="mw-redirect" title="浙江">浙江</a><a href="/wiki/%E8%88%9F%E5%B1%B1" class="mw-redirect" title="舟山">舟山</a>工作，与确诊病人有密切接触，18日去<a href="/wiki/%E5%A8%81%E6%B5%B7" class="mw-redirect" title="威海">威海</a>探亲，20日发热就诊被隔离。<sup id="cite_ref-sd2511338_161-0" class="reference"><a href="#cite_note-sd2511338-161">[160]</a></sup>后<a href="/wiki/%E4%B8%B4%E6%B2%82%E5%B8%82" title="临沂市">临沂市</a>首次报告2例确诊病例，<a href="/wiki/%E9%9D%92%E5%B2%9B%E5%B8%82" title="青岛市">青岛市</a>新增2例确诊病例。<sup id="cite_ref-162" class="reference"><a href="#cite_note-162">[161]</a></sup>
+<td>新增5例，累计6例。威海新增1例新增为38岁男性，<a href="/wiki/%E6%B5%99%E6%B1%9F" class="mw-redirect" title="浙江">浙江</a><a href="/wiki/%E8%88%9F%E5%B1%B1" class="mw-redirect" title="舟山">舟山</a>工作，与确诊病人有密切接触，18日去<a href="/wiki/%E5%A8%81%E6%B5%B7" class="mw-redirect" title="威海">威海</a>探亲，20日发热就诊被隔离。<sup id="cite_ref-sd2511338_176-0" class="reference"><a href="#cite_note-sd2511338-176">[175]</a></sup>后<a href="/wiki/%E4%B8%B4%E6%B2%82%E5%B8%82" title="临沂市">临沂市</a>首次报告2例确诊病例，<a href="/wiki/%E9%9D%92%E5%B2%9B%E5%B8%82" title="青岛市">青岛市</a>新增2例确诊病例。<sup id="cite_ref-177" class="reference"><a href="#cite_note-177">[176]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>新增3例，累计9例。其中潍坊、日照市各首次报告1例确诊病例，威海市新增1例确诊病例。<sup id="cite_ref-163" class="reference"><a href="#cite_note-163">[162]</a></sup>
+<td>新增3例，累计9例。其中潍坊、日照市各首次报告1例确诊病例，威海市新增1例确诊病例。<sup id="cite_ref-178" class="reference"><a href="#cite_note-178">[177]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>当日0-12时新增6例，累计15例。其中济南市2例、烟台市2例、济宁市1例，均为首次报告确诊病例；青岛市新增1例确诊病例。<sup id="cite_ref-164" class="reference"><a href="#cite_note-164">[163]</a></sup>
+<td>当日0-12时新增6例，累计15例。其中济南市2例、烟台市2例、济宁市1例，均为首次报告确诊病例；青岛市新增1例确诊病例。<sup id="cite_ref-179" class="reference"><a href="#cite_note-179">[178]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B9%96%E5%8D%97%E7%9C%81" title="湖南省">湖南省</a></span>
+<td>2020-01-25
+</td>
+<td>24日12-24时新增6例，累计21例。其中德州、聊城市各首次报告1例确诊病例，济宁、威海、日照、临沂市各新增1例确诊病例。5例为输入性病例，1例为密切接触者感染的确诊病例<sup id="cite_ref-180" class="reference"><a href="#cite_note-180">[179]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="5"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B9%96%E5%8D%97%E7%9C%81" title="湖南省">湖南省</a></span>
 </td>
 <td>2020-01-21
 </td>
-<td>共出现1例确诊病例。57岁女性，武汉人，在<a href="/wiki/%E9%95%B7%E6%B2%99" class="mw-redirect" title="长沙">长沙</a>治疗，21日获国家确认为病例。<sup id="cite_ref-165" class="reference"><a href="#cite_note-165">[164]</a></sup><sup id="cite_ref-166" class="reference"><a href="#cite_note-166">[165]</a></sup>
+<td>共出现1例确诊病例。57岁女性，武汉人，在<a href="/wiki/%E9%95%B7%E6%B2%99" class="mw-redirect" title="长沙">长沙</a>治疗，21日获国家确认为病例。<sup id="cite_ref-181" class="reference"><a href="#cite_note-181">[180]</a></sup><sup id="cite_ref-182" class="reference"><a href="#cite_note-182">[181]</a></sup>
 </td>
-<td rowspan="4"><a href="/wiki/%E6%B9%96%E5%8D%97%E7%9C%81%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E5%91%98%E4%BC%9A" title="湖南省卫生健康委员会">湖南省卫生健康委员会</a>
+<td rowspan="5"><a href="/wiki/%E6%B9%96%E5%8D%97%E7%9C%81%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E5%91%98%E4%BC%9A" title="湖南省卫生健康委员会">湖南省卫生健康委员会</a>
 </td></tr>
 <tr>
 <td>2020-01-22
 </td>
-<td>新增3例，累计4例。新增2女1男，<a href="/wiki/%E6%87%B7%E5%8C%96" class="mw-redirect" title="怀化">怀化</a>人，年龄介乎30-40岁，同一间公司同事。2名女性去过武汉，1名男性为密切接触者。<sup id="cite_ref-167" class="reference"><a href="#cite_note-167">[166]</a></sup><sup id="cite_ref-168" class="reference"><a href="#cite_note-168">[167]</a></sup>
+<td>新增3例，累计4例。新增2女1男，<a href="/wiki/%E6%87%B7%E5%8C%96" class="mw-redirect" title="怀化">怀化</a>人，年龄介乎30-40岁，同一间公司同事。2名女性去过武汉，1名男性为密切接触者。<sup id="cite_ref-183" class="reference"><a href="#cite_note-183">[182]</a></sup><sup id="cite_ref-184" class="reference"><a href="#cite_note-184">[183]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>新增5例，累计9例。其中长沙市3例，永州市1例，郴州市1例。5名患者均有武汉暴露史。<sup id="cite_ref-169" class="reference"><a href="#cite_note-169">[168]</a></sup><sup id="cite_ref-170" class="reference"><a href="#cite_note-170">[169]</a></sup>
+<td>新增5例，累计9例。其中长沙市3例，永州市1例，郴州市1例。5名患者均有武汉暴露史。<sup id="cite_ref-185" class="reference"><a href="#cite_note-185">[184]</a></sup><sup id="cite_ref-186" class="reference"><a href="#cite_note-186">[185]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增15例，累计24例。新增确诊病例中,株洲市、湘潭市、岳阳市、娄底市为报告首例确诊病例；新增岳阳市3例、娄底市3例、长沙市4例、永州市3例。<sup id="cite_ref-171" class="reference"><a href="#cite_note-171">[170]</a></sup>
+<td>新增15例，累计24例。新增确诊病例中,株洲市、湘潭市、岳阳市、娄底市为报告首例确诊病例；新增岳阳市3例、娄底市3例、长沙市4例、永州市3例。<sup id="cite_ref-187" class="reference"><a href="#cite_note-187">[186]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="2"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/%E9%9B%B2%E5%8D%97%E7%9C%81" class="mw-redirect" title="云南省">云南省</a>
+<td>2020-01-25
+</td>
+<td>新增19例，累计43例。衡阳市、邵阳市、常德市、益阳市为报告首例确诊病例。新增确诊病例中，衡阳市3例、湘潭市1例、邵阳市2例、岳阳市2例、常德市3例、益阳市4例、怀化市2例、娄底市2例。<sup id="cite_ref-188" class="reference"><a href="#cite_note-188">[187]</a></sup>
+</td></tr>
+<tr>
+<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/%E9%9B%B2%E5%8D%97%E7%9C%81" class="mw-redirect" title="云南省">云南省</a>
 </td>
 <td>2020-01-21
 </td>
-<td>出现第一例确诊病例。患者为51岁男性，武汉人，15日到<a href="/wiki/%E6%98%86%E6%98%8E" class="mw-redirect" title="昆明">昆明</a>，16日就诊，17日隔离，21日获国家确认为病例。<sup id="cite_ref-yunnan1st_172-0" class="reference"><a href="#cite_note-yunnan1st-172">[171]</a></sup>
+<td>出现第一例确诊病例。患者为51岁男性，武汉人，15日到<a href="/wiki/%E6%98%86%E6%98%8E" class="mw-redirect" title="昆明">昆明</a>，16日就诊，17日隔离，21日获国家确认为病例。<sup id="cite_ref-yunnan1st_189-0" class="reference"><a href="#cite_note-yunnan1st-189">[188]</a></sup>
 </td>
 <td rowspan="2">昆明市卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>出现第二例确诊病例。患者为53岁男性，武汉人，1月16日到昆明后出现发热、咳嗽等症状，于1月22日在医疗机构就诊后收治入院隔离治疗<sup id="cite_ref-173" class="reference"><a href="#cite_note-173">[172]</a></sup>。
+<td>出现第二例确诊病例。患者为53岁男性，武汉人，1月16日到昆明后出现发热、咳嗽等症状，于1月22日在医疗机构就诊后收治入院隔离治疗<sup id="cite_ref-190" class="reference"><a href="#cite_note-190">[189]</a></sup>。
 </td></tr>
 <tr>
-<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B1%9F%E8%A5%BF%E7%9C%81" title="江西省">江西省</a></span>
+<td rowspan="2">2020-01-25
+</td>
+<td>上午通报新增确诊病例3例，其中西双版纳州1例（首次通报）、丽江市1例（首次通报）、昆明市1例。累计病例5例<sup id="cite_ref-191" class="reference"><a href="#cite_note-191">[190]</a></sup>。
+</td>
+<td rowspan="2">云南省卫生健康委员会
+</td></tr>
+<tr>
+<td>下午通报新增确诊病例6例，曲靖市、玉溪市、红河州、大理州为报告首例确诊病例，丽江市新增确诊病例1例、昆明市新增确诊病例1例。累计病例11例<sup id="cite_ref-192" class="reference"><a href="#cite_note-192">[191]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B1%9F%E8%A5%BF%E7%9C%81" title="江西省">江西省</a></span>
 </td>
 <td>2020-01-22
 </td>
-<td>共出现2例确诊病例。分别为56岁及50岁男性，<a href="/wiki/%E6%92%AB%E5%B7%9E" class="mw-redirect" title="抚州">抚州</a>及<a href="/wiki/%E8%90%8D%E9%84%89" class="mw-redirect" title="萍乡">萍乡</a>人，均于10日就诊被隔离，21日获确认为病例，均为重症，均去过武汉。<sup id="cite_ref-jiangxi1st_174-0" class="reference"><a href="#cite_note-jiangxi1st-174">[173]</a></sup>
+<td>共出现2例确诊病例。分别为56岁及50岁男性，<a href="/wiki/%E6%92%AB%E5%B7%9E" class="mw-redirect" title="抚州">抚州</a>及<a href="/wiki/%E8%90%8D%E9%84%89" class="mw-redirect" title="萍乡">萍乡</a>人，均于10日就诊被隔离，21日获确认为病例，均为重症，均去过武汉。<sup id="cite_ref-jiangxi1st_193-0" class="reference"><a href="#cite_note-jiangxi1st-193">[192]</a></sup>
 </td>
-<td rowspan="3">江西省卫生健康委员会
+<td rowspan="4">江西省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>共出现1例确诊病例，属重症病例，亦为南昌市报告首例确诊病例<sup id="cite_ref-175" class="reference"><a href="#cite_note-175">[174]</a></sup>。
+<td>共出现1例确诊病例，属重症病例，亦为南昌市报告首例确诊病例<sup id="cite_ref-194" class="reference"><a href="#cite_note-194">[193]</a></sup>。
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>共出现4例确诊病例。累计7例<sup id="cite_ref-176" class="reference"><a href="#cite_note-176">[175]</a></sup>。
+<td>共出现4例确诊病例。累计7例<sup id="cite_ref-195" class="reference"><a href="#cite_note-195">[194]</a></sup>。
+</td></tr>
+<tr>
+<td>2020-01-25
+</td>
+<td>共出现11例确诊病例。累计18例<sup id="cite_ref-196" class="reference"><a href="#cite_note-196">[195]</a></sup>。
 </td></tr>
 <tr>
 <td rowspan="2"><span class="flagicon"><a href="/wiki/%E7%BE%8E%E5%9C%8B" title="美国"><img alt="美国" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"></a></span> <span class="nowrap"><a href="/wiki/%E7%BE%8E%E5%9B%BD" title="美国">美国</a></span>
 </td>
 <td>2020-01-22
 </td>
-<td>首宗确诊病例。三十余岁，曾去过中国武汉，当地时间15日返回美国，之后在华盛顿州<a href="/wiki/%E8%A5%BF%E9%9B%85%E5%9C%96%E5%B8%82" class="mw-redirect" title="西雅图市">西雅图市</a>医疗机构求诊，最终确认呈阳性。<sup id="cite_ref-177" class="reference"><a href="#cite_note-177">[176]</a></sup>
+<td>首宗确诊病例。三十余岁，曾去过中国武汉，当地时间15日返回美国，之后在华盛顿州<a href="/wiki/%E8%A5%BF%E9%9B%85%E5%9C%96%E5%B8%82" class="mw-redirect" title="西雅图市">西雅图市</a>医疗机构求诊，最终确认呈阳性。<sup id="cite_ref-197" class="reference"><a href="#cite_note-197">[196]</a></sup>
 </td>
 <td rowspan="2"><a href="/wiki/%E7%BE%8E%E5%9C%8B%E7%96%BE%E7%97%85%E7%AE%A1%E5%88%B6%E8%88%87%E9%A0%90%E9%98%B2%E4%B8%AD%E5%BF%83" class="mw-redirect" title="美国疾病管制与预防中心">美国疾病管制与预防中心</a>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>美国境内第二宗确诊病例。60多岁女子，芝加哥居民，于1月13日从武汉返回芝加哥，旅游时并未感到不适。<sup id="cite_ref-usa2_178-0" class="reference"><a href="#cite_note-usa2-178">[177]</a></sup>
+<td>美国境内第二宗确诊病例。60多岁女子，芝加哥居民，于1月13日从武汉返回芝加哥，旅游时并未感到不适。<sup id="cite_ref-usa2_198-0" class="reference"><a href="#cite_note-usa2-198">[197]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="2"><span class="flagicon"><a href="/wiki/%E6%BE%B3%E9%96%80" title="澳门"><img alt="澳门" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/22px-Flag_of_Macau.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/33px-Flag_of_Macau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/44px-Flag_of_Macau.svg.png 2x" data-file-width="450" data-file-height="300"></a></span> <span class="nowrap"><a href="/wiki/%E6%BE%B3%E9%96%80%E7%89%B9%E5%88%A5%E8%A1%8C%E6%94%BF%E5%8D%80" class="mw-redirect" title="澳门特别行政区">澳门特别行政区</a></span>
+<td rowspan="2"><span class="flagicon"><a href="/wiki/%E6%BE%B3%E9%96%80" title="澳门"><img alt="澳门" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/22px-Flag_of_Macau.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/33px-Flag_of_Macau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/44px-Flag_of_Macau.svg.png 2x" data-file-width="450" data-file-height="300"></a></span> <span class="nowrap"><a href="/wiki/%E6%BE%B3%E9%96%80" title="澳门">澳门</a></span>
 </td>
 <td>2020-01-22
 </td>
-<td>澳门出现首例确诊新型冠状病毒感染的案例，是武汉来澳门的旅客。<sup id="cite_ref-hk01macau0122_179-0" class="reference"><a href="#cite_note-hk01macau0122-179">[178]</a></sup>
+<td>澳门出现首例确诊新型冠状病毒感染的案例，是武汉来澳门的旅客。<sup id="cite_ref-hk01macau0122_199-0" class="reference"><a href="#cite_note-hk01macau0122-199">[198]</a></sup>
 </td>
 <td>澳门特别行政区政府新型冠状病毒感染应变协调中心
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>澳门确诊第二例武汉新型冠状病毒病例，患者66岁，男性，武汉游客，经关闸口岸入境澳门时被卫生局检疫人员检测出有发热，被送往澳门仁伯爵综合医院特别急诊作进一步检查，经检验对新型冠状病毒呈阳性反应。<sup id="cite_ref-180" class="reference"><a href="#cite_note-180">[179]</a></sup>
+<td>澳门确诊第二例武汉新型冠状病毒病例，患者66岁，男性，武汉游客，经关闸口岸入境澳门时被卫生局检疫人员检测出有发热，被送往澳门仁伯爵综合医院特别急诊作进一步检查，经检验对新型冠状病毒呈阳性反应。<sup id="cite_ref-200" class="reference"><a href="#cite_note-200">[199]</a></sup>
 </td>
 <td><a href="/wiki/%E6%BE%B3%E9%96%80%E7%89%B9%E5%88%A5%E8%A1%8C%E6%94%BF%E5%8D%80%E6%94%BF%E5%BA%9C%E8%A1%9B%E7%94%9F%E5%B1%80" title="澳门特别行政区政府卫生局">澳门特别行政区政府卫生局</a>
 </td></tr>
@@ -493,27 +569,27 @@
 </td>
 <td>2020-01-22
 </td>
-<td>共出现2例确诊病例。分别为33岁及40岁男性，在湖北<a href="/wiki/%E6%AD%A6%E6%BC%A2" class="mw-redirect" title="武汉">武汉</a>及<a href="/wiki/%E4%BB%99%E6%A1%83%E5%B8%82" title="仙桃市">仙桃</a>工作，返回<a href="/wiki/%E5%A4%A7%E9%80%A3" class="mw-redirect" title="大连">大连</a>及<a href="/wiki/%E6%92%AB%E9%A0%86" class="mw-redirect" title="抚顺">抚顺</a>后就诊，22日获确认为病例。1例为重症，均在武汉停留过。<sup id="cite_ref-liaoning1st_181-0" class="reference"><a href="#cite_note-liaoning1st-181">[180]</a></sup>
+<td>共出现2例确诊病例。分别为33岁及40岁男性，在湖北<a href="/wiki/%E6%AD%A6%E6%BC%A2" class="mw-redirect" title="武汉">武汉</a>及<a href="/wiki/%E4%BB%99%E6%A1%83%E5%B8%82" title="仙桃市">仙桃</a>工作，返回<a href="/wiki/%E5%A4%A7%E9%80%A3" class="mw-redirect" title="大连">大连</a>及<a href="/wiki/%E6%92%AB%E9%A0%86" class="mw-redirect" title="抚顺">抚顺</a>后就诊，22日获确认为病例。1例为重症，均在武汉停留过。<sup id="cite_ref-liaoning1st_201-0" class="reference"><a href="#cite_note-liaoning1st-201">[200]</a></sup>
 </td>
 <td rowspan="4">辽宁省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>新增1例，累计3例。<sup id="cite_ref-:11_182-0" class="reference"><a href="#cite_note-:11-182">[181]</a></sup>
+<td>新增1例，累计3例。<sup id="cite_ref-:11_202-0" class="reference"><a href="#cite_note-:11-202">[201]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增1例，累计4例。患者男性，朝阳凌源市人，42岁，1月18日由武汉乘坐动车组列车至北京西，后自行开车至凌源市，目前生命体征平稳。<sup id="cite_ref-183" class="reference"><a href="#cite_note-183">[182]</a></sup>
+<td>新增1例，累计4例。患者男性，朝阳凌源市人，42岁，1月18日由武汉乘坐动车组列车至北京西，后自行开车至凌源市，目前生命体征平稳。<sup id="cite_ref-203" class="reference"><a href="#cite_note-203">[202]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-25
 </td>
-<td>新增8例，累计12例。重症病例9例。其中确诊病例中，沈阳市3例、大连市2例、本溪市1例、铁岭市2例、朝阳市2例、葫芦岛市2例。目前12名患者均在定点医疗机构隔离治疗，病情稳定。全部248名密切接触者均在实施医学观察中。<sup id="cite_ref-184" class="reference"><a href="#cite_note-184">[183]</a></sup>
+<td>新增8例，累计12例。重症病例9例。其中确诊病例中，沈阳市3例、大连市2例、本溪市1例、铁岭市2例、朝阳市2例、葫芦岛市2例。目前12名患者均在定点医疗机构隔离治疗，病情稳定。全部248名密切接触者均在实施医学观察中。<sup id="cite_ref-204" class="reference"><a href="#cite_note-204">[203]</a></sup>，之后通报新增3例（均为重症病例），累计15例<sup id="cite_ref-205" class="reference"><a href="#cite_note-205">[204]</a></sup>。
 </td></tr>
 <tr>
-<td><span class="flagicon"><a href="/wiki/%E9%A6%99%E6%B8%AF" title="香港"><img alt="香港" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/22px-Flag_of_Hong_Kong.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/33px-Flag_of_Hong_Kong.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/44px-Flag_of_Hong_Kong.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E9%A6%99%E6%B8%AF%E7%89%B9%E5%88%A5%E8%A1%8C%E6%94%BF%E5%8D%80" class="mw-redirect" title="香港特别行政区">香港特别行政区</a></span>
+<td><span class="flagicon"><a href="/wiki/%E9%A6%99%E6%B8%AF" title="香港"><img alt="香港" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/22px-Flag_of_Hong_Kong.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/33px-Flag_of_Hong_Kong.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/44px-Flag_of_Hong_Kong.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E9%A6%99%E6%B8%AF" title="香港">香港</a></span>
 </td>
 <td>2020-01-22
 </td>
@@ -522,207 +598,272 @@
 <td><a href="/wiki/%E9%A6%99%E6%B8%AF%E8%A1%9B%E7%94%9F%E7%BD%B2" class="mw-redirect" title="香港卫生署">香港卫生署</a>
 </td></tr>
 <tr>
-<td rowspan="2"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B5%B7%E5%8D%97%E7%9C%81" title="海南省">海南省</a></span>
+<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B5%B7%E5%8D%97%E7%9C%81" title="海南省">海南省</a></span>
 </td>
 <td>2020-01-22
 </td>
-<td>共出现4例确诊病例。1月22日，国家卫健委确认<a href="/wiki/%E6%B5%B7%E5%8D%97%E7%9C%81" title="海南省">海南省</a>首例输入性新型冠状病毒感染的肺炎确诊病例。按照国家卫健委各省份首例新型冠状病毒感染的肺炎病例确认程序和新型冠状病毒感染的肺炎诊疗方案，海南省也确诊3例病例。目前海南省共确诊4例病例，均为输入性病例。4例患者病情平稳，体温已恢复正常，正在定点医院隔离治疗，当地卫生健康部门已对其密切接触者进行追踪随访，密切接触者目前无发热等异常状况。<sup id="cite_ref-185" class="reference"><a href="#cite_note-185">[184]</a></sup>
+<td>共出现4例确诊病例。1月22日，国家卫健委确认<a href="/wiki/%E6%B5%B7%E5%8D%97%E7%9C%81" title="海南省">海南省</a>首例输入性新型冠状病毒感染的肺炎确诊病例。按照国家卫健委各省份首例新型冠状病毒感染的肺炎病例确认程序和新型冠状病毒感染的肺炎诊疗方案，海南省也确诊3例病例。目前海南省共确诊4例病例，均为输入性病例。4例患者病情平稳，体温已恢复正常，正在定点医院隔离治疗，当地卫生健康部门已对其密切接触者进行追踪随访，密切接触者目前无发热等异常状况。<sup id="cite_ref-206" class="reference"><a href="#cite_note-206">[205]</a></sup>
 </td>
-<td rowspan="2">海南省卫生健康委员会
+<td rowspan="3">海南省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>共出现4例确诊病例，累计8例<sup id="cite_ref-186" class="reference"><a href="#cite_note-186">[185]</a></sup>。
+<td>共出现4例确诊病例，累计8例<sup id="cite_ref-207" class="reference"><a href="#cite_note-207">[206]</a></sup>。
 </td></tr>
 <tr>
-<td rowspan="2"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E8%B4%B5%E5%B7%9E%E7%9C%81" title="贵州省">贵州省</a></span>
+<td>2020-01-25
+</td>
+<td>上午通报9例确诊病例<sup id="cite_ref-208" class="reference"><a href="#cite_note-208">[207]</a></sup>；晚间通报2例确诊病例，累计19例<sup id="cite_ref-209" class="reference"><a href="#cite_note-209">[208]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E8%B4%B5%E5%B7%9E%E7%9C%81" title="贵州省">贵州省</a></span>
 </td>
 <td>2020-01-22
 </td>
-<td>共出现1例确诊病例。患者为51岁，男性，现居<a href="/wiki/%E8%B4%B5%E9%98%B3" class="mw-redirect" title="贵阳">贵阳</a>，发病前一周有武汉居住史，1月14日因发热就诊。经省疾控中心初步检测，按规定程序报中国疾控中心病毒核酸检测，检测结果为阳性。1月22日，经国家卫生健康委疫情防控领导小组诊断专家组评估确认，该病例为新型冠状病毒感染的肺炎确诊病例。<sup id="cite_ref-187" class="reference"><a href="#cite_note-187">[186]</a></sup>
+<td>共出现1例确诊病例。患者为51岁，男性，现居<a href="/wiki/%E8%B4%B5%E9%98%B3" class="mw-redirect" title="贵阳">贵阳</a>，发病前一周有武汉居住史，1月14日因发热就诊。经省疾控中心初步检测，按规定程序报中国疾控中心病毒核酸检测，检测结果为阳性。1月22日，经国家卫生健康委疫情防控领导小组诊断专家组评估确认，该病例为新型冠状病毒感染的肺炎确诊病例。<sup id="cite_ref-210" class="reference"><a href="#cite_note-210">[209]</a></sup>
 </td>
-<td rowspan="2">贵州省卫生健康委员会
+<td rowspan="3">贵州省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>共出现2例确诊病例，累计3例<sup id="cite_ref-188" class="reference"><a href="#cite_note-188">[187]</a></sup>。
+<td>共出现2例确诊病例，累计3例<sup id="cite_ref-211" class="reference"><a href="#cite_note-211">[210]</a></sup>。
 </td></tr>
 <tr>
-<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E7%A6%8F%E5%BB%BA%E7%9C%81" title="福建省">福建省</a></span>
+<td>2020-01-25
+</td>
+<td>两次共计通报2例确诊病例，累计5例<sup id="cite_ref-212" class="reference"><a href="#cite_note-212">[211]</a></sup><sup id="cite_ref-213" class="reference"><a href="#cite_note-213">[212]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E7%A6%8F%E5%BB%BA%E7%9C%81" title="福建省">福建省</a></span>
 </td>
 <td>2020-01-22
 </td>
-<td>共出现1例确诊病例。70岁男性，<a href="/wiki/%E7%A6%8F%E5%B7%9E%E5%B8%82" title="福州市">福州市</a><a href="/wiki/%E9%80%A3%E6%B1%9F%E7%B8%A3" class="mw-redirect" title="连江县">连江县</a>人，在湖北<a href="/wiki/%E6%AD%A6%E6%BC%A2" class="mw-redirect" title="武汉">武汉</a>工作，17日返回连江，20日就诊并隔离，22日获国家确认为病例。<sup id="cite_ref-fujian1st_189-0" class="reference"><a href="#cite_note-fujian1st-189">[188]</a></sup>
+<td>共出现1例确诊病例。70岁男性，<a href="/wiki/%E7%A6%8F%E5%B7%9E%E5%B8%82" title="福州市">福州市</a><a href="/wiki/%E9%80%A3%E6%B1%9F%E7%B8%A3" class="mw-redirect" title="连江县">连江县</a>人，在湖北<a href="/wiki/%E6%AD%A6%E6%BC%A2" class="mw-redirect" title="武汉">武汉</a>工作，17日返回连江，20日就诊并隔离，22日获国家确认为病例。<sup id="cite_ref-fujian1st_214-0" class="reference"><a href="#cite_note-fujian1st-214">[213]</a></sup>
 </td>
-<td rowspan="3">福建省卫生健康委员会
+<td rowspan="4">福建省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>新增4例，累计5例。确诊3例病例，厦门市、泉州市、宁德市分别报告1例确诊病例，均为当地首例确诊病例。<sup id="cite_ref-190" class="reference"><a href="#cite_note-190">[189]</a></sup>后再新增1例确诊病例，新增患者为武汉返乡人员，目前患者病情平稳。<sup id="cite_ref-191" class="reference"><a href="#cite_note-191">[190]</a></sup>
+<td>新增4例，累计5例。确诊3例病例，厦门市、泉州市、宁德市分别报告1例确诊病例，均为当地首例确诊病例。<sup id="cite_ref-215" class="reference"><a href="#cite_note-215">[214]</a></sup>后再新增1例确诊病例，新增患者为武汉返乡人员，目前患者病情平稳。<sup id="cite_ref-216" class="reference"><a href="#cite_note-216">[215]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>当日0-10时新增4例，累计9例。其中福州市新增确诊病例2例，厦门市新增确诊病例2例。<sup id="cite_ref-192" class="reference"><a href="#cite_note-192">[191]</a></sup>
+<td>当日0-10时新增4例，累计9例。其中福州市新增确诊病例2例，厦门市新增确诊病例2例。<sup id="cite_ref-217" class="reference"><a href="#cite_note-217">[216]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%AE%89%E5%BE%BD%E7%9C%81" title="安徽省">安徽省</a></span>
+<td>2020-01-25
+</td>
+<td>新增8例，累计确诊18例，其中危重症1 例，重症3例。福州累计6例，厦门累计3例。<sup id="cite_ref-218" class="reference"><a href="#cite_note-218">[217]</a></sup>
+</td></tr>
+<tr>
+<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%AE%89%E5%BE%BD%E7%9C%81" title="安徽省">安徽省</a></span>
 </td>
 <td>2020-01-22
 </td>
-<td><a href="/wiki/%E5%90%88%E8%82%A5%E5%B8%82" title="合肥市">合肥市</a>报告出现首例确诊病例。<sup id="cite_ref-193" class="reference"><a href="#cite_note-193">[192]</a></sup>
+<td><a href="/wiki/%E5%90%88%E8%82%A5%E5%B8%82" title="合肥市">合肥市</a>报告出现首例确诊病例。<sup id="cite_ref-219" class="reference"><a href="#cite_note-219">[218]</a></sup>
 </td>
-<td rowspan="3">安徽省卫生健康委员会
+<td rowspan="4">安徽省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>截至1月23日10时，安徽省累计确诊病例达9例（合肥市5例、六安市1例、滁州市1例、阜阳市1例、亳州市1例）。<sup id="cite_ref-194" class="reference"><a href="#cite_note-194">[193]</a></sup>
+<td>截至1月23日10时，安徽省累计确诊病例达9例（合肥市5例、六安市1例、滁州市1例、阜阳市1例、亳州市1例）。<sup id="cite_ref-220" class="reference"><a href="#cite_note-220">[219]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>截至1月23日24时，安徽省累计确诊病例达15例（合肥市6例，六安市2例、阜阳市2例、滁州市1例、亳州市1例、安庆市1例、池州市1例、蚌埠市1例），目前无重症病例、死亡病例和出院病例。<sup id="cite_ref-195" class="reference"><a href="#cite_note-195">[194]</a></sup>
+<td>截至1月23日24时，安徽省累计确诊病例达15例（合肥市6例，六安市2例、阜阳市2例、滁州市1例、亳州市1例、安庆市1例、池州市1例、蚌埠市1例），目前无重症病例、死亡病例和出院病例。<sup id="cite_ref-221" class="reference"><a href="#cite_note-221">[220]</a></sup>
 </td></tr>
 <tr>
-<td><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%B1%B1%E8%A5%BF%E7%9C%81" title="山西省">山西省</a></span>
+<td>2020-01-25
+</td>
+<td>截至1月24日24时，安徽省累计确诊病例达24例（合肥市4例、铜陵市3例、安庆市3例、马鞍山市4例、阜阳市5例、亳州市3例，芜湖市1例、滁州市1例，铜陵市、马鞍山市、芜湖市为首次病例报告），目前无重症病例、死亡病例和出院病例。<sup id="cite_ref-222" class="reference"><a href="#cite_note-222">[221]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="2"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%B1%B1%E8%A5%BF%E7%9C%81" title="山西省">山西省</a></span>
 </td>
 <td>2020-01-22
 </td>
-<td>共出现1例确诊病例，男性患者，<a href="/wiki/%E5%A4%AA%E5%8E%9F" class="mw-redirect" title="太原">太原</a>人。1月12日至15日在武汉旅游。15日从武汉乘动车、中转石家庄返回太原。19日出现发热伴头痛症状。20日乘车到山西白求恩医院发热门诊就诊。21日转至山西省定点医院（太原市第四人民医院）隔离治疗。21日晚标本送检。22日经国家卫健委确认确诊病例。现患者病情稳定，已对6名密切接触者进行追踪随访。<sup id="cite_ref-196" class="reference"><a href="#cite_note-196">[195]</a></sup>
+<td>共出现1例确诊病例，男性患者，<a href="/wiki/%E5%A4%AA%E5%8E%9F" class="mw-redirect" title="太原">太原</a>人。1月12日至15日在武汉旅游。15日从武汉乘动车、中转石家庄返回太原。19日出现发热伴头痛症状。20日乘车到山西白求恩医院发热门诊就诊。21日转至山西省定点医院（太原市第四人民医院）隔离治疗。21日晚标本送检。22日经国家卫健委确认确诊病例。现患者病情稳定，已对6名密切接触者进行追踪随访。<sup id="cite_ref-223" class="reference"><a href="#cite_note-223">[222]</a></sup>
 </td>
-<td>山西省卫生健康委员会
+<td rowspan="2">山西省卫生健康委员会
 </td></tr>
 <tr>
-<td rowspan="2"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%AF%A7%E5%A4%8F%E5%9B%9E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8D%80" class="mw-redirect" title="宁夏回族自治区">宁夏回族自治区</a></span>
+<td>2020-01-25
+</td>
+<td>新增确诊病例5例，累计6例。<sup id="cite_ref-224" class="reference"><a href="#cite_note-224">[223]</a></sup>
+</td></tr>
+<tr>
+<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%AF%A7%E5%A4%8F%E5%9B%9E%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8D%80" class="mw-redirect" title="宁夏回族自治区">宁夏回族自治区</a></span>
 </td>
 <td>2020-01-22
 </td>
-<td>共出现1例确诊病例。29岁男性，宁夏人，在湖北<a href="/wiki/%E6%AD%A6%E6%BC%A2" class="mw-redirect" title="武汉">武汉</a>工作，19日飞抵<a href="/wiki/%E9%8A%80%E5%B7%9D" class="mw-redirect" title="银川">银川</a>、就诊并隔离，22日获确认为病例。<sup id="cite_ref-ningxia1st_197-0" class="reference"><a href="#cite_note-ningxia1st-197">[196]</a></sup>
+<td>共出现1例确诊病例。29岁男性，宁夏人，在湖北<a href="/wiki/%E6%AD%A6%E6%BC%A2" class="mw-redirect" title="武汉">武汉</a>工作，19日飞抵<a href="/wiki/%E9%8A%80%E5%B7%9D" class="mw-redirect" title="银川">银川</a>、就诊并隔离，22日获确认为病例。<sup id="cite_ref-ningxia1st_225-0" class="reference"><a href="#cite_note-ningxia1st-225">[224]</a></sup>
 </td>
-<td rowspan="2">宁夏回族自治区卫生健康委员会
+<td rowspan="3">宁夏回族自治区卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增1例，累计2例。中卫市报告首例确诊病例。<sup id="cite_ref-198" class="reference"><a href="#cite_note-198">[197]</a></sup>
+<td>新增1例，累计2例。中卫市报告首例确诊病例。<sup id="cite_ref-226" class="reference"><a href="#cite_note-226">[225]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%BB%A3%E8%A5%BF%E5%A3%AF%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8D%80" class="mw-redirect" title="广西壮族自治区">广西壮族自治区</a></span>
+<td>2020-01-25
+</td>
+<td>新增1例，累计3例。固原市报告首例确诊病例<sup id="cite_ref-227" class="reference"><a href="#cite_note-227">[226]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E5%BB%A3%E8%A5%BF%E5%A3%AF%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8D%80" class="mw-redirect" title="广西壮族自治区">广西壮族自治区</a></span>
 </td>
 <td>2020-01-22
 </td>
-<td>共出现2例确诊病例。<a href="/wiki/%E5%8C%97%E6%B5%B7%E5%B8%82" title="北海市">北海市</a>1例，66岁女性，武汉游客；<a href="/wiki/%E6%A2%A7%E5%B7%9E%E5%B8%82" title="梧州市">梧州市</a>1例，46岁男性，当地市民，发病前接触过来自武汉的人员。22日获确认为病例。<sup id="cite_ref-guangxi1st_199-0" class="reference"><a href="#cite_note-guangxi1st-199">[198]</a></sup>
+<td>共出现2例确诊病例。<a href="/wiki/%E5%8C%97%E6%B5%B7%E5%B8%82" title="北海市">北海市</a>1例，66岁女性，武汉游客；<a href="/wiki/%E6%A2%A7%E5%B7%9E%E5%B8%82" title="梧州市">梧州市</a>1例，46岁男性，当地市民，发病前接触过来自武汉的人员。22日获确认为病例。<sup id="cite_ref-guangxi1st_228-0" class="reference"><a href="#cite_note-guangxi1st-228">[227]</a></sup>
 </td>
-<td rowspan="3">广西壮族自治区卫生健康委员会
+<td rowspan="4">广西壮族自治区卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>新增3例，累计5例。新增2男1女，均为武汉市民或长居武汉，年龄介乎49-63岁，2例北海就诊，1例<a href="/wiki/%E6%9F%B3%E5%B7%9E" class="mw-redirect" title="柳州">柳州</a>就诊。<sup id="cite_ref-gx67932_200-0" class="reference"><a href="#cite_note-gx67932-200">[199]</a></sup>
+<td>新增3例，累计5例。新增2男1女，均为武汉市民或长居武汉，年龄介乎49-63岁，2例北海就诊，1例<a href="/wiki/%E6%9F%B3%E5%B7%9E" class="mw-redirect" title="柳州">柳州</a>就诊。<sup id="cite_ref-gx67932_229-0" class="reference"><a href="#cite_note-gx67932-229">[228]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增8例，累计13例<sup id="cite_ref-201" class="reference"><a href="#cite_note-201">[200]</a></sup>。
+<td>新增8例，累计13例<sup id="cite_ref-230" class="reference"><a href="#cite_note-230">[229]</a></sup>。
 </td></tr>
 <tr>
-<td rowspan="2"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B2%B3%E5%8C%97%E7%9C%81" title="河北省">河北省</a></span>
+<td>2020-01-25
+</td>
+<td>新增10例，累计23例<sup id="cite_ref-231" class="reference"><a href="#cite_note-231">[230]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B2%B3%E5%8C%97%E7%9C%81" title="河北省">河北省</a></span>
 </td>
 <td>2020-01-22
 </td>
-<td>共出现1例确诊病例。72岁男性，武汉市人，1月18日前往石家庄探亲，19日因发热、咳嗽入院隔离治疗。经国家和河北省疾控中心病毒核酸检测，结果为阳性。1月22日，国家卫生健康委疫情防控领导小组诊断专家组评估确认，该病例为新型冠状病毒感染的肺炎确诊病例<sup id="cite_ref-:7_202-0" class="reference"><a href="#cite_note-:7-202">[201]</a></sup>。
+<td>共出现1例确诊病例。72岁男性，武汉市人，1月18日前往石家庄探亲，19日因发热、咳嗽入院隔离治疗。经国家和河北省疾控中心病毒核酸检测，结果为阳性。1月22日，国家卫生健康委疫情防控领导小组诊断专家组评估确认，该病例为新型冠状病毒感染的肺炎确诊病例<sup id="cite_ref-:7_232-0" class="reference"><a href="#cite_note-:7-232">[231]</a></sup>。
 </td>
-<td rowspan="2">河北省卫生健康委员会
+<td rowspan="3">河北省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-23
 </td>
-<td>新增确诊（死亡）病例1例。患者为一名80岁陈姓男子确诊感染新型冠状病毒，已于22日逝世，属首宗于湖北以外的首宗死亡个案。<sup id="cite_ref-203" class="reference"><a href="#cite_note-203">[202]</a></sup>
+<td>新增确诊（死亡）病例1例。患者为一名80岁陈姓男子确诊感染新型冠状病毒，已于22日逝世，属首宗于湖北以外的首宗死亡个案。<sup id="cite_ref-233" class="reference"><a href="#cite_note-233">[232]</a></sup>
 </td></tr>
 <tr>
-<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B1%9F%E8%98%87%E7%9C%81" class="mw-redirect" title="江苏省">江苏省</a></span>
+<td>2020-01-25
+</td>
+<td>新增病例6例，累计8例，死亡1例<sup id="cite_ref-234" class="reference"><a href="#cite_note-234">[233]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="4"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%B1%9F%E8%98%87%E7%9C%81" class="mw-redirect" title="江苏省">江苏省</a></span>
 </td>
 <td rowspan="2">2020-01-23
 </td>
-<td>早间通报首例确诊病例。37岁男性，住在<a href="/wiki/%E8%98%87%E5%B7%9E%E5%B8%82" class="mw-redirect" title="苏州市">苏州市</a>工业园区，10日从武汉返回江苏、就诊被隔离。22日获确认为病例。<sup id="cite_ref-jiangsu1st_204-0" class="reference"><a href="#cite_note-jiangsu1st-204">[203]</a></sup>
+<td>早间通报首例确诊病例。37岁男性，住在<a href="/wiki/%E8%98%87%E5%B7%9E%E5%B8%82" class="mw-redirect" title="苏州市">苏州市</a>工业园区，10日从武汉返回江苏、就诊被隔离。22日获确认为病例。<sup id="cite_ref-jiangsu1st_235-0" class="reference"><a href="#cite_note-jiangsu1st-235">[234]</a></sup>
 </td>
-<td rowspan="3">江苏省卫生健康委员会
+<td rowspan="4">江苏省卫生健康委员会
 </td></tr>
 <tr>
-<td>晚间通报至18时新增4例，<a href="/wiki/%E5%8D%97%E4%BA%AC%E5%B8%82" title="南京市">南京市</a>2例、<a href="/wiki/%E8%BF%9E%E4%BA%91%E6%B8%AF%E5%B8%82" title="连云港市">连云港市</a>和<a href="/wiki/%E6%89%AC%E5%B7%9E%E5%B8%82" title="扬州市">扬州市</a>各1例，均有近期武汉旅行史。<sup id="cite_ref-jiangsu0123night_205-0" class="reference"><a href="#cite_note-jiangsu0123night-205">[204]</a></sup>
+<td>晚间通报至18时新增4例，<a href="/wiki/%E5%8D%97%E4%BA%AC%E5%B8%82" title="南京市">南京市</a>2例、<a href="/wiki/%E8%BF%9E%E4%BA%91%E6%B8%AF%E5%B8%82" title="连云港市">连云港市</a>和<a href="/wiki/%E6%89%AC%E5%B7%9E%E5%B8%82" title="扬州市">扬州市</a>各1例，均有近期武汉旅行史。<sup id="cite_ref-jiangsu0123night_236-0" class="reference"><a href="#cite_note-jiangsu0123night-236">[235]</a></sup>
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增确诊病例4例，无锡市、南通市、南京市、苏州市各1例，其中无锡市、南通市为首次报告确诊病例。截至1月23日24时累计报告病例9例<sup id="cite_ref-jiangsu0124_206-0" class="reference"><a href="#cite_note-jiangsu0124-206">[205]</a></sup>。
+<td>新增确诊病例4例，无锡市、南通市、南京市、苏州市各1例，其中无锡市、南通市为首次报告确诊病例。截至1月23日24时累计报告病例9例<sup id="cite_ref-jiangsu0124_237-0" class="reference"><a href="#cite_note-jiangsu0124-237">[236]</a></sup>。
 </td></tr>
 <tr>
-<td rowspan="2"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E9%BB%91%E9%BE%8D%E6%B1%9F%E7%9C%81" class="mw-redirect" title="黑龙江省">黑龙江省</a></span>
+<td>2020-01-25
+</td>
+<td>新增确诊病例9例，其中常州市5例，盐城市1例，宿迁市1例，为常州市、盐城市、宿迁市首次报告确诊病例。另外南京市、苏州市各新通报1例。截至1月24日24时累计报告病例18例<sup id="cite_ref-238" class="reference"><a href="#cite_note-238">[237]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E9%BB%91%E9%BE%8D%E6%B1%9F%E7%9C%81" class="mw-redirect" title="黑龙江省">黑龙江省</a></span>
 </td>
 <td>2020-01-23
 </td>
-<td>共出现2例确诊病例。69岁男性，<a href="/wiki/%E7%89%A1%E4%B8%B9%E6%B1%9F%E5%B8%82" title="牡丹江市">牡丹江市</a>人，12日从武汉返回牡丹江，其后就诊被隔离，病情较重。23日获确认为病例。<sup id="cite_ref-heilongjiang1st_207-0" class="reference"><a href="#cite_note-heilongjiang1st-207">[206]</a></sup>后黑龙江省卫生健康委员会新通报1例，患者为男性，49岁，哈尔滨市巴彦县人。患者病情平稳，其密切接触者正在医学观察，暂无异常。<sup id="cite_ref-:8_208-0" class="reference"><a href="#cite_note-:8-208">[207]</a></sup>
+<td>共出现2例确诊病例。69岁男性，<a href="/wiki/%E7%89%A1%E4%B8%B9%E6%B1%9F%E5%B8%82" title="牡丹江市">牡丹江市</a>人，12日从武汉返回牡丹江，其后就诊被隔离，病情较重。23日获确认为病例。<sup id="cite_ref-heilongjiang1st_239-0" class="reference"><a href="#cite_note-heilongjiang1st-239">[238]</a></sup>后黑龙江省卫生健康委员会新通报1例，患者为男性，49岁，哈尔滨市巴彦县人。患者病情平稳，其密切接触者正在医学观察，暂无异常。<sup id="cite_ref-:8_240-0" class="reference"><a href="#cite_note-:8-240">[239]</a></sup>
 </td>
 <td>牡丹江市卫生健康委员会、黑龙江省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>共出现2例确诊病例，1例死亡病例，是黑龙江省首例死亡病例。累计报告4例<sup id="cite_ref-209" class="reference"><a href="#cite_note-209">[208]</a></sup>。
+<td>共出现2例确诊病例，1例死亡病例，是黑龙江省首例死亡病例。累计报告4例<sup id="cite_ref-241" class="reference"><a href="#cite_note-241">[240]</a></sup>。
 </td>
-<td>黑龙江省卫生健康委员会
+<td rowspan="2">黑龙江省卫生健康委员会
 </td></tr>
 <tr>
-<td rowspan="2"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E9%99%9D%E8%A5%BF%E7%9C%81" class="mw-redirect" title="陕西省">陕西省</a></span>
+<td>2020-01-25
+</td>
+<td>共出现5例确诊病例，累计报告9例<sup id="cite_ref-242" class="reference"><a href="#cite_note-242">[241]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="3"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E9%99%9D%E8%A5%BF%E7%9C%81" class="mw-redirect" title="陕西省">陕西省</a></span>
 </td>
 <td>2020-01-23
 </td>
-<td>确诊3例<sup id="cite_ref-210" class="reference"><a href="#cite_note-210">[209]</a></sup>
+<td>确诊3例<sup id="cite_ref-243" class="reference"><a href="#cite_note-243">[242]</a></sup>
 </td>
-<td rowspan="2">陕西省卫生健康委员会
+<td rowspan="3">陕西省卫生健康委员会
 </td></tr>
 <tr>
 <td>2020-01-24
 </td>
-<td>新增确诊2例，累计报告5例<sup id="cite_ref-211" class="reference"><a href="#cite_note-211">[210]</a></sup>。
+<td>新增确诊2例，累计报告5例<sup id="cite_ref-244" class="reference"><a href="#cite_note-244">[243]</a></sup>。
 </td></tr>
 <tr>
-<td><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%96%B0%E7%96%86%E7%B6%AD%E5%90%BE%E7%88%BE%E8%87%AA%E6%B2%BB%E5%8D%80" class="mw-redirect" title="新疆维吾尔自治区">新疆维吾尔自治区</a></span>
+<td>2020-01-25
+</td>
+<td>新增确诊10例，累计报告15例<sup id="cite_ref-245" class="reference"><a href="#cite_note-245">[244]</a></sup>。
+</td></tr>
+<tr>
+<td rowspan="2"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E6%96%B0%E7%96%86%E7%B6%AD%E5%90%BE%E7%88%BE%E8%87%AA%E6%B2%BB%E5%8D%80" class="mw-redirect" title="新疆维吾尔自治区">新疆维吾尔自治区</a></span>
 </td>
 <td>2020-01-23
 </td>
-<td>确诊2例<sup id="cite_ref-212" class="reference"><a href="#cite_note-212">[211]</a></sup>
+<td>确诊2例<sup id="cite_ref-246" class="reference"><a href="#cite_note-246">[245]</a></sup>
 </td>
-<td>新疆维吾尔自治区卫生健康委员会
+<td rowspan="2">新疆维吾尔自治区卫生健康委员会
+</td></tr>
+<tr>
+<td>2020-01-24
+</td>
+<td>确诊1例，累计3例<sup id="cite_ref-247" class="reference"><a href="#cite_note-247">[246]</a></sup>
 </td></tr>
 <tr>
 <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/22px-Flag_of_Singapore.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/33px-Flag_of_Singapore.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/44px-Flag_of_Singapore.svg.png 2x" data-file-width="4320" data-file-height="2880">&nbsp;</span><a href="/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1" title="新加坡">新加坡</a>
 </td>
 <td>2020-01-23
 </td>
-<td>确诊1例，一名搭乘中国南方航空班机从广州来新加坡的66岁，居住在武汉的中华人民共和国籍男子，确认感染武汉肺炎。<sup id="cite_ref-:42_213-0" class="reference"><a href="#cite_note-:42-213">[212]</a></sup>
+<td>确诊1例，一名搭乘中国南方航空班机从广州来新加坡的66岁，居住在武汉的中华人民共和国籍男子，确认感染武汉肺炎。<sup id="cite_ref-:42_248-0" class="reference"><a href="#cite_note-:42-248">[247]</a></sup>
 </td>
 <td><a href="/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8D%AB%E7%94%9F%E9%83%A8" title="新加坡卫生部">新加坡卫生部</a>
 </td></tr>
 <tr>
-<td><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span><span class="nowrap"><a href="/wiki/%E7%94%98%E8%82%83%E7%9C%81" title="甘肃省">甘肃省</a></span>
+<td rowspan="2"><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86" title="中国大陆"><img alt="中国大陆" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span><span class="nowrap"><a href="/wiki/%E7%94%98%E8%82%83%E7%9C%81" title="甘肃省">甘肃省</a></span>
 </td>
 <td>2020-01-23
 </td>
-<td>共出现2例确诊病例。兰州市1例，白银市1例。<sup id="cite_ref-214" class="reference"><a href="#cite_note-214">[213]</a></sup>
+<td>共出现2例确诊病例。兰州市1例，白银市1例。<sup id="cite_ref-249" class="reference"><a href="#cite_note-249">[248]</a></sup>
 </td>
-<td>甘肃省卫生健康委员会
+<td rowspan="2">甘肃省卫生健康委员会
+</td></tr>
+<tr>
+<td>2020-01-25
+</td>
+<td>共出现2例确诊病例。兰州市1例，临夏州1例。截至1月24日24时，甘肃省已累计确诊4例新型冠状病毒感染的肺炎病例<sup id="cite_ref-250" class="reference"><a href="#cite_note-250">[249]</a></sup>。
 </td></tr>
 <tr>
 <td><span class="flagicon"><a href="/wiki/%E8%B6%8A%E5%8D%97" title="越南"><img alt="越南" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/22px-Flag_of_Vietnam.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/33px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/44px-Flag_of_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <span class="nowrap"><a href="/wiki/%E8%B6%8A%E5%8D%97" title="越南">越南</a></span>
 </td>
 <td>2020-01-23
 </td>
-<td>1月14日越南卫生部在<a href="/wiki/%E5%B3%B4%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4" title="岘港国际机场">岘港国际机场</a>，首度发现2宗“武汉肺炎”怀疑个案，二人均来自居于中国武汉市的游客，入境时出现发热症状，他们已被隔离观察治疗并采样送检<sup id="cite_ref-215" class="reference"><a href="#cite_note-215">[214]</a></sup><sup id="cite_ref-216" class="reference"><a href="#cite_note-216">[215]</a></sup>。1月23日，越南卫生部表示有两父子被确诊感染新型冠状病毒。<sup id="cite_ref-217" class="reference"><a href="#cite_note-217">[216]</a></sup>
+<td>1月14日越南卫生部在<a href="/wiki/%E5%B3%B4%E6%B8%AF%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4" title="岘港国际机场">岘港国际机场</a>，首度发现2宗“武汉肺炎”怀疑个案，二人均来自居于中国武汉市的游客，入境时出现发热症状，他们已被隔离观察治疗并采样送检<sup id="cite_ref-251" class="reference"><a href="#cite_note-251">[250]</a></sup><sup id="cite_ref-252" class="reference"><a href="#cite_note-252">[251]</a></sup>。1月23日，越南卫生部表示有两父子被确诊感染新型冠状病毒。<sup id="cite_ref-253" class="reference"><a href="#cite_note-253">[252]</a></sup>
 </td>
 <td>越南卫生部
 </td></tr>
@@ -731,7 +872,7 @@
 </td>
 <td>2020-01-24
 </td>
-<td>首宗确诊病例，患者在中国武汉读书，放假回国后感到不适，之后确诊。<sup id="cite_ref-218" class="reference"><a href="#cite_note-218">[217]</a></sup><sup id="cite_ref-now378034_219-0" class="reference"><a href="#cite_note-now378034-219">[218]</a></sup>
+<td>首宗确诊病例，患者在中国武汉读书，放假回国后感到不适，之后确诊。<sup id="cite_ref-254" class="reference"><a href="#cite_note-254">[253]</a></sup><sup id="cite_ref-now378034_255-0" class="reference"><a href="#cite_note-now378034-255">[254]</a></sup>
 </td>
 <td><span class="ilh-all" data-orig-title="尼泊爾衞生與人口部" data-lang-code="en" data-lang-name="英语" data-foreign-title="Ministry of Health and Population (Nepal)"><span class="ilh-page"><a href="/w/index.php?title=%E5%B0%BC%E6%B3%8A%E7%88%BE%E8%A1%9E%E7%94%9F%E8%88%87%E4%BA%BA%E5%8F%A3%E9%83%A8&amp;action=edit&amp;redlink=1" class="new" original-title="尼泊尔卫生与人口部（页面不存在）">尼泊尔卫生与人口部</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Ministry_of_Health_and_Population_(Nepal)" class="extiw" title="en:Ministry of Health and Population (Nepal)"><span lang="en" dir="auto">Ministry of Health and Population (Nepal)</span></a></span>）</span></span>
 </td></tr>
@@ -740,21 +881,21 @@
 </td>
 <td>2020-01-24
 </td>
-<td>法国卫生部宣布确诊2例病例，分别在<a href="/wiki/%E5%B7%B4%E9%BB%8E" title="巴黎">巴黎</a>及<a href="/wiki/%E6%B3%A2%E5%B0%94%E5%A4%9A" title="波尔多">波尔多</a>，患者曾经到中国，为武汉肺炎首次传入欧洲。<sup id="cite_ref-220" class="reference"><a href="#cite_note-220">[219]</a></sup>
+<td>法国卫生部宣布确诊2例病例，分别在<a href="/wiki/%E5%B7%B4%E9%BB%8E" title="巴黎">巴黎</a>及<a href="/wiki/%E6%B3%A2%E5%B0%94%E5%A4%9A" title="波尔多">波尔多</a>，患者曾经到中国，为武汉肺炎首次传入欧洲。<sup id="cite_ref-256" class="reference"><a href="#cite_note-256">[255]</a></sup>
 </td>
 <td rowspan="2">法国卫生部
 </td></tr>
 <tr>
 <td>2020-01-25
 </td>
-<td>确诊第3例病例。<sup id="cite_ref-Franch25Jan_7-1" class="reference"><a href="#cite_note-Franch25Jan-7">[7]</a></sup>
+<td>确诊第3例病例。<sup id="cite_ref-Franch25Jan_9-1" class="reference"><a href="#cite_note-Franch25Jan-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td><span class="flagicon"><a href="/wiki/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A" title="澳大利亚"><img alt="澳大利亚" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/22px-Flag_of_Australia.svg.png" decoding="async" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/33px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/44px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640"></a></span> <span class="nowrap"><a href="/wiki/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A" title="澳大利亚">澳大利亚</a></span>
 </td>
 <td>2020-01-25
 </td>
-<td>澳大利亚卫生当局表示，该国维多利亚州确诊首例新型冠状病毒肺炎病例，患者是一名50多岁的中国男性。<sup id="cite_ref-221" class="reference"><a href="#cite_note-221">[220]</a></sup>
+<td>澳大利亚卫生当局表示，该国维多利亚州确诊首例新型冠状病毒肺炎病例，患者是一名50多岁的中国男性。<sup id="cite_ref-257" class="reference"><a href="#cite_note-257">[256]</a></sup>
 </td>
 <td><span class="ilh-all" data-orig-title="维州卫生厅" data-lang-code="en" data-lang-name="英语" data-foreign-title="Department of Health and Human Services (Victoria)"><span class="ilh-page"><a href="/w/index.php?title=%E7%BB%B4%E5%B7%9E%E5%8D%AB%E7%94%9F%E5%8E%85&amp;action=edit&amp;redlink=1" class="new" original-title="维州卫生厅（页面不存在）">维州卫生厅</a></span><span class="noprint ilh-comment">（<span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Department_of_Health_and_Human_Services_(Victoria)" class="extiw" title="en:Department of Health and Human Services (Victoria)"><span lang="en" dir="auto">Department of Health and Human Services (Victoria)</span></a></span>）</span></span>
 </td></tr>
@@ -763,7 +904,16 @@
 </td>
 <td>2020-01-25
 </td>
-<td>马来西亚卫生部证实柔佛州出现三宗武汉肺炎确诊病例。三名病患是来自武汉的游客，为新加坡首宗确诊病患的妻子、两岁及十一岁男孙。<sup id="cite_ref-222" class="reference"><a href="#cite_note-222">[221]</a></sup>
+<td>马来西亚卫生部证实柔佛州出现三宗武汉肺炎确诊病例。三名病患是来自武汉的游客，为新加坡首宗确诊病患的妻子、两岁及十一岁男孙。三人目前在双溪毛糯医院接受治疗，情况稳定<sup id="cite_ref-258" class="reference"><a href="#cite_note-258">[257]</a></sup><sup id="cite_ref-259" class="reference"><a href="#cite_note-259">[258]</a></sup>
 </td>
 <td><a href="/wiki/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%8D%AB%E7%94%9F%E9%83%A8" title="马来西亚卫生部">马来西亚卫生部</a>
+</td></tr>
+<tr>
+<td><span class="flagicon"><a href="/wiki/%E4%B8%AD%E5%9B%BD" title="中国"><img alt="中国" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a href="/wiki/%E9%9D%92%E6%B5%B7%E7%9C%81" title="青海省">青海省</a>
+</td>
+<td>2020-01-25
+</td>
+<td>青海省卫生健康委员会宣布，青海省确认首例新型冠状病毒感染的肺炎确诊病例。<sup id="cite_ref-260" class="reference"><a href="#cite_note-260">[259]</a></sup>
+</td>
+<td>青海省卫生健康委员会
 </td></tr></tbody><tfoot></tfoot></table>
