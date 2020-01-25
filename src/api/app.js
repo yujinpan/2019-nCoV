@@ -95,7 +95,7 @@ function getTableData(tableElem) {
 
   // 合并地区
   const result = [];
-  let prev, newItem, count;
+  let prev, newItem, count, area;
   dateArr.forEach((item) => {
     count = findCount(item['病例报告']);
     if (count > 0) {
@@ -103,9 +103,10 @@ function getTableData(tableElem) {
         date: item['报告日期'],
         count
       };
-      if (!result.length || item['病患地区'] !== result.slice(-1)[0].area) {
+      area = item['病患地区'].trim().replace(/(自治区)$/, '');
+      if (!result.length || area !== result.slice(-1)[0].area) {
         prev = {
-          area: item['病患地区'].trim(),
+          area,
           data: [newItem]
         };
         result.push(prev);
