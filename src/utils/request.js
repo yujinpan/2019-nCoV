@@ -16,7 +16,8 @@ const requestNoToken = null;
  * @param {Object} params get 请求的参数
  */
 const service = axios.create({
-  baseURL: process.env.VUE_APP_BASE_URL,
+  baseURL:
+    process.env.NODE_ENV === 'production' ? process.env.VUE_APP_BASE_URL : '/',
   // withCredentials: true,
   timeout: 20000,
   validateStatus: function(status) {
