@@ -66,6 +66,51 @@ export function getStat2019() {
   });
 }
 
+/**
+ * 获取感染程度统计
+ * @param {Array<{date, total}>} totalStat
+ * @return {Promise}
+ */
+export function getStatLevel(totalStat) {
+  return request({
+    url: REST_SERVICE.wikipedia.detail2
+  }).then((res) => {
+    const keys = [
+      'die',
+      'diePercent',
+      'cure',
+      'curePercent',
+      'warn',
+      'warnPercent',
+      'danger',
+      'dangerPercent'
+    ];
+    let levelData, prevItem;
+    const result = [];
+    totalStat.forEach((item, index) => {
+      levelData = res[item.date] || {};
+      Object.assign(levelData, {
+        diePercent: getPercent(item.total, levelData.die),
+        curePercent: getPercent(item.total, levelData.cure),
+        warnPercent: getPercent(item.total, levelData.warn),
+        dangerPercent: getPercent(item.total, levelData.danger)
+      });
+      prevItem = result[index - 1];
+      keys.forEach((key) => {
+        if (!levelData[key] && levelData[key] !== 0) {
+          levelData[key] = prevItem ? prevItem[key] : 0;
+        }
+      });
+      result.push({
+        date: item.date,
+        total: item.total,
+        ...levelData
+      });
+    });
+    return result;
+  });
+}
+
 // 获取 2003 年统计
 
 // 获取 table 的 json 数据
@@ -166,6 +211,11 @@ function findCount(text) {
     count = Number(text.replace(/.*新增(\d+)例.*/, '$1'));
     return count > 0 ? count + 1 : 1;
   }
+}
+
+// 计算比例
+function getPercent(total, value) {
+  return !Number.isNaN(value) ? +(value / total).toFixed(5) : undefined;
 }
 
 // 查找 wiki 页面的 table

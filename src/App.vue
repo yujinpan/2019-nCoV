@@ -10,11 +10,18 @@
     ></ve-line>
     <el-divider></el-divider>
     <ve-bar height="900px" :extend="chartExtend2" :data="chartData2"></ve-bar>
+    <el-divider></el-divider>
+    <ve-histogram
+      style="margin-bottom: -20px;"
+      :extend="chartExtend3"
+      :settings="chartSettings3"
+      :data="chartData3"
+    ></ve-histogram>
   </div>
 </template>
 
 <script>
-import { getStat2019 } from '@/api/app';
+import { getStat2019, getStatLevel } from '@/api/app';
 
 export default {
   name: 'app',
@@ -31,42 +38,43 @@ export default {
         '#bda29a',
         '#6e7074',
         '#c4ccd3'
-      ]
+      ],
+      tooltip: {
+        confine: true
+      }
+    };
+    const chartExtend = {
+      ...common,
+      grid: {
+        top: 120,
+        left: 20,
+        right: 20,
+        bottom: 20
+      },
+      legend: {
+        top: 60,
+        type: 'scroll',
+        selector: true
+      },
+      title: {
+        text: '确诊病例变化趋势',
+        textStyle: {
+          fontSize: 16,
+          color: '#666'
+        },
+        subtext: '（数据来源：维基百科 2019－2020年新型冠狀病毒肺炎事件）',
+        sublink:
+          'https://zh.wikipedia.org/wiki/2019－2020年新型冠狀病毒肺炎事件',
+        left: 'center'
+      },
+      xAxis: {
+        axisLabel: {
+          rotate: 45
+        }
+      }
     };
     return {
-      chartExtend: {
-        ...common,
-        grid: {
-          top: 120,
-          left: 20,
-          right: 20,
-          bottom: 20
-        },
-        legend: {
-          top: 60,
-          type: 'scroll',
-          selector: true
-        },
-        title: {
-          text: '确诊病例变化趋势',
-          textStyle: {
-            fontSize: 16,
-            color: '#666'
-          },
-          subtext: '（数据来源：维基百科 2019－2020年新型冠狀病毒肺炎事件）',
-          sublink:
-            'https://zh.wikipedia.org/wiki/2019－2020年新型冠狀病毒肺炎事件',
-          left: 'center'
-        },
-        xAxis: {
-          axisLabel: {
-            rotate: 45
-          }
-        },
-        tooltip: {
-          confine: true
-        }
-      },
+      chartExtend,
       chartData: {
         columns: [],
         rows: []
@@ -105,6 +113,74 @@ export default {
       chartData2: {
         columns: [],
         rows: []
+      },
+      chartSettings3: {
+        labelMap: {
+          total: '总数',
+          die: '死亡',
+          diePercent: '死亡率',
+          cure: '治愈',
+          curePercent: '治愈率',
+          warn: '重症',
+          warnPercent: '重症率',
+          danger: '危重症',
+          dangerPercent: '危重症率'
+        },
+        showLine: ['diePercent', 'curePercent', 'warnPercent', 'dangerPercent'],
+        axisSite: {
+          right: ['diePercent', 'curePercent', 'warnPercent', 'dangerPercent']
+        },
+        yAxisType: ['normal', 'percent'],
+        yAxisName: ['数量', '比率']
+      },
+      chartExtend3: {
+        ...chartExtend,
+        title: {
+          text: '确诊病例严重程度',
+          textStyle: {
+            fontSize: 16,
+            color: '#666'
+          },
+          subtext: '（数据来源：维基百科 2019－2020年新型冠狀病毒肺炎事件）',
+          sublink:
+            'https://zh.wikipedia.org/wiki/2019－2020年新型冠狀病毒肺炎事件',
+          left: 'center'
+        },
+        series: {
+          barMinHeight: 2,
+          barMaxWidth: 40
+        },
+        legend: {
+          top: 60,
+          type: 'scroll',
+          selector: true,
+          selected: {
+            总数: true,
+            死亡: true,
+            治愈: true,
+            重症: false,
+            危重症: false,
+            死亡率: true,
+            治愈率: true,
+            重症率: false,
+            危重症率: false
+          }
+        }
+      },
+      chartData3: {
+        columns: [
+          'date',
+          'total',
+          'die',
+          'cure',
+          'warn',
+          'danger',
+          'diePercent',
+          'curePercent',
+          'warnPercent',
+          'dangerPercent'
+        ],
+        rows: []
       }
     };
   },
@@ -122,6 +198,12 @@ export default {
           ['病例数']: lastItem[item]
         }))
         .reverse();
+
+      getStatLevel(
+        data.map((item) => ({ date: item.date, total: item['总数'] }))
+      ).then((result) => {
+        this.chartData3.rows = result;
+      });
     });
   }
 };
