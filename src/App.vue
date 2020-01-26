@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="full-height padding-large">
     <h3 class="text-center">2019-nCoV 全球数据统计（不代表最新实时信息）</h3>
-    <p class="text-center text-secondary">更新时间：2020-01-26 01:42</p>
+    <p class="text-center text-secondary">更新时间：2020-01-26 11:53</p>
     <el-divider></el-divider>
     <ve-line
       style="margin-bottom: -20px;"

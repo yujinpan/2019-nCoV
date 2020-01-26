@@ -148,7 +148,7 @@ function getTableData(tableElem) {
         date: item['报告日期'],
         count
       };
-      area = item['病患地区'].trim().replace(/(自治区)$/, '');
+      area = item['病患地区'].trim().replace(/(自治区|半岛地区)$/, '');
       if (!result.length || area !== result.slice(-1)[0].area) {
         prev = {
           area,
