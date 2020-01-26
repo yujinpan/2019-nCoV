@@ -1,6 +1,6 @@
 import request from '../utils/request';
 import { utils } from 'xlsx';
-import { REST_SERVICE } from '@/config';
+import { GLOBAL_CONFIG, REST_SERVICE } from '@/config';
 
 // 获取 2019 年统计
 export function getStat2019() {
@@ -54,6 +54,9 @@ export function getStat2019() {
         .reduce((prev, next) => prev + (item[next] || 0), 0);
     });
     columns.splice(1, 0, '总数');
+    // 校验最新的总数
+    const lastItem = result.slice(-1)[0];
+    lastItem['总数'] = Math.max(lastItem['总数'], GLOBAL_CONFIG.total);
 
     // 对 columns 进行排序
     const total = result.slice(-1)[0];
