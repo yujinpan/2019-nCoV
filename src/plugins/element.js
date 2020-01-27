@@ -6,10 +6,11 @@
 import Vue from 'vue';
 
 // 方式一：按需加载
-import { Divider } from 'element-ui';
+import { Divider, Loading } from 'element-ui';
 
 Vue.use(Divider);
-// Vue.use(Loading.directive);
+// Vue.use(Loading);
+Vue.use(Loading.directive);
 
 // Vue.prototype.$loading = Loading.service;
 // Vue.prototype.$message = Message;

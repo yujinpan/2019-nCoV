@@ -1,6 +1,11 @@
 export const GLOBAL_CONFIG = window.CONFIG; // 来自 public/config.js 中
 
 export const REST_SERVICE = {
+  proxy: 'http://localhost:5050',
+  gov: {
+    origin: 'http://www.nhc.gov.cn/',
+    list: 'http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml'
+  },
   wikipedia: {
     detail: '/table.txt',
     detail2: '/table2.json'

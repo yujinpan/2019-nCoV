@@ -1,8 +1,145 @@
 import request from '../utils/request';
 import { utils } from 'xlsx';
 import { GLOBAL_CONFIG, REST_SERVICE } from '@/config';
+import { localDataApp } from '@/utils/local-data';
 
-// 获取 2019 年统计
+/**
+ *  获取 2019 年统计数据（新）
+ * @return {Promise}
+ */
+export function getStat2019New() {
+  const localData = localDataApp.get();
+  if (!localData) {
+    localDataApp.set({});
+  }
+  return request({
+    url: REST_SERVICE.proxy,
+    method: 'get',
+    params: {
+      url: REST_SERVICE.gov.list
+    }
+  })
+    .then(null, () => Promise.resolve(localData ? localData.list : ''))
+    .then(
+      /**@param {String} res */ (res) => {
+        const regList = /<li>.*<\/li>/g;
+        let list = res.match(regList);
+        if (!list) {
+          list = localData.list ? localData.list.match(regList) : [];
+        } else {
+          localDataApp.update({
+            list: res
+          });
+        }
+        list = list
+          .map((item) => ({
+            date: item.match(/\d{4}-\d{2}-\d{2}/)[0],
+            url:
+              REST_SERVICE.gov.origin +
+              item.replace(/.*href="([^"]*)".*/, '$1'),
+            data: {
+              confirmed: 0, // 确诊
+              severe: 0, // 重症
+              dead: 0, // 死亡
+              healed: 0, // 治愈
+              suspected: 0, // 疑似
+              watch: 0 // 观察
+            }
+          }))
+          .reverse();
+        return Promise.all(
+          list.map((item) =>
+            request({
+              url: REST_SERVICE.proxy,
+              method: 'get',
+              params: {
+                url: item.url
+              }
+            }).then(
+              (res) => {
+                if (!res.match(/<p>/)) {
+                  if (localData.details && localData.details[item.date]) {
+                    return localData.details[item.date];
+                  } else {
+                    return '';
+                  }
+                } else {
+                  return res;
+                }
+              },
+              () => {
+                if (localData.details && localData.details[item.date]) {
+                  return Promise.resolve(localData.details[item.date]);
+                } else {
+                  return Promise.resolve('');
+                }
+              }
+            )
+          )
+        ).then(
+          /**@param {Array<String>} resArr */ (resArr) => {
+            localDataApp.update({
+              details: list.reduce((prev, next, index) => {
+                prev[next.date] = resArr[index];
+                return prev;
+              }, {})
+            });
+            const keys = [
+              'confirmed',
+              'severe',
+              'dead',
+              'healed',
+              'suspected',
+              'watch'
+            ];
+            let nextItem, prevItem;
+            resArr.forEach((res, index) => {
+              nextItem = list[index].data;
+              prevItem = index > 0 ? list[index - 1].data : null;
+              Object.assign(nextItem, {
+                confirmed: getCount(
+                  res,
+                  /.*累计.*(确诊|肺炎)病例(\d+)例.*/,
+                  '$2'
+                ),
+                severe: getCount(res, /.*累计.*重症(病例)?(\d+)例.*/, '$2'),
+                dead: getCount(res, /.*累计.*死亡(病例)?(\d+)例.*/, '$2'),
+                healed: getCount(res, /.*累计.*出院(病例)?(\d+)例.*/, '$2'),
+                suspected: getCount(res, /.*累计.*疑似(病例)?(\d+)例.*/, '$2'),
+                watch: getCount(
+                  res,
+                  /.*追踪.*(尚有|尚在接受医学观察)(\d+)人.*/,
+                  '$2'
+                )
+              });
+              keys.forEach((key) => {
+                if (!nextItem[key] && nextItem[key] !== 0) {
+                  nextItem[key] = prevItem ? prevItem[key] || 0 : 0;
+                }
+              });
+            });
+            return list;
+          }
+        );
+      }
+    );
+}
+
+getStat2019New().then(console.log);
+
+/**
+ * 获取例数
+ * @param {String} text
+ * @param {RegExp} reg
+ * @param {String} [regReplace]
+ * @return {Number|null}
+ */
+export function getCount(text, reg, regReplace = '$1') {
+  const match = text.match(reg);
+  return match ? +match[0].replace(/\s/g, '').replace(reg, regReplace) : null;
+}
+
+// 获取 2019 年统计数据（旧）
 export function getStat2019() {
   return request({
     url: REST_SERVICE.wikipedia.detail

@@ -1,7 +1,14 @@
 <template>
   <div id="app" class="full-height padding-large">
     <h3 class="text-center">2019-nCoV 全球数据统计（不代表最新实时信息）</h3>
-    <p class="text-center text-secondary">更新时间：2020-01-26 11:53</p>
+    <el-divider></el-divider>
+    <ve-histogram
+      v-loading="loading4"
+      style="margin-bottom: -20px;"
+      :extend="chartExtend4"
+      :settings="chartSettings4"
+      :data="chartData4"
+    ></ve-histogram>
     <el-divider></el-divider>
     <ve-line
       style="margin-bottom: -20px;"
@@ -21,7 +28,7 @@
 </template>
 
 <script>
-import { getStat2019, getStatLevel } from '@/api/app';
+import { getStat2019, getStat2019New, getStatLevel } from '@/api/app';
 
 export default {
   name: 'app',
@@ -74,6 +81,7 @@ export default {
       }
     };
     return {
+      loading4: false,
       chartExtend,
       chartData: {
         columns: [],
@@ -181,6 +189,68 @@ export default {
           'dangerPercent'
         ],
         rows: []
+      },
+      chartSettings4: {
+        labelMap: {
+          confirmed: '确诊',
+          dead: '死亡',
+          healed: '治愈',
+          severe: '重症',
+          suspected: '疑似病例',
+          watch: '观察中',
+          deadPercent: '死亡率',
+          healedPercent: '治愈率',
+          severePercent: '重症率'
+        },
+        showLine: ['deadPercent', 'healedPercent', 'severePercent'],
+        axisSite: {
+          right: ['deadPercent', 'healedPercent', 'severePercent']
+        },
+        yAxisType: ['normal', 'percent'],
+        yAxisName: ['数量', '比率']
+      },
+      chartExtend4: {
+        ...chartExtend,
+        title: {
+          text: '最新病例综合统计',
+          textStyle: {
+            fontSize: 16,
+            color: '#666'
+          },
+          subtext: '（数据来源：国家卫建委 - 新型冠状病毒感染的肺炎疫情防控）',
+          sublink: 'http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml',
+          left: 'center'
+        },
+        series: {
+          barMinHeight: 2,
+          barMaxWidth: 40
+        },
+        legend: {
+          top: 60,
+          type: 'scroll',
+          selector: true,
+          selected: {
+            重症: false,
+            重症率: false,
+            疑似病例: false,
+            观察中: false
+          }
+        }
+      },
+      chartData4: {
+        columns: [
+          'date',
+          'confirmed',
+          'dead',
+          'healed',
+          'deadPercent',
+          'healedPercent',
+          'severe',
+          'suspected',
+          'watch',
+          'severePercent'
+        ],
+        rows: []
       }
     };
   },
@@ -204,6 +274,18 @@ export default {
       ).then((result) => {
         this.chartData3.rows = result;
       });
+    });
+
+    this.loading4 = true;
+    getStat2019New().then((data) => {
+      this.chartData4.rows = data.map((item) =>
+        Object.assign(item, item.data, {
+          deadPercent: item.data.dead / item.data.confirmed,
+          healedPercent: item.data.healed / item.data.confirmed,
+          severePercent: item.data.severe / item.data.confirmed
+        })
+      );
+      this.loading4 = false;
     });
   }
 };
