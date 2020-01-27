@@ -57,7 +57,7 @@ export default {
         selector: true
       },
       title: {
-        text: '确诊病例变化趋势',
+        text: '确诊病例变化趋势（数据源更改，不再更新）',
         textStyle: {
           fontSize: 16,
           color: '#666'
@@ -82,7 +82,7 @@ export default {
       chartExtend2: {
         ...common,
         title: {
-          text: '确诊病例地区数量',
+          text: '确诊病例地区数量（数据源更改，不再更新）',
           textStyle: {
             fontSize: 16,
             color: '#666'
@@ -136,7 +136,7 @@ export default {
       chartExtend3: {
         ...chartExtend,
         title: {
-          text: '确诊病例严重程度',
+          text: '确诊病例严重程度（数据源更改，不再更新）',
           textStyle: {
             fontSize: 16,
             color: '#666'
