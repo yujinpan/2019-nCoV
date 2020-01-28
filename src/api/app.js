@@ -8,10 +8,13 @@ import { localDataApp } from '@/utils/local-data';
  * @return {Promise}
  */
 export function getStat2019New() {
-  const localData = localDataApp.get();
-  if (!localData) {
-    localDataApp.set({});
+  if (!localDataApp.get()) {
+    localDataApp.set({
+      list: '',
+      details: {}
+    });
   }
+  const localData = localDataApp.get();
   return request({
     url: REST_SERVICE.proxy,
     method: 'get',
@@ -22,6 +25,7 @@ export function getStat2019New() {
     .then(null, () => Promise.resolve(localData ? localData.list : ''))
     .then(
       /**@param {String} res */ (res) => {
+        res = typeof res === 'string' ? res : String(res);
         const regList = /<li>.*<\/li>/g;
         let list = res.match(regList);
         if (!list) {
@@ -57,18 +61,24 @@ export function getStat2019New() {
               }
             }).then(
               (res) => {
+                res = typeof res === 'string' ? res : String(res);
                 if (!res.match(/<p>/)) {
-                  if (localData.details && localData.details[item.date]) {
+                  if (localData.details[item.date]) {
                     return localData.details[item.date];
                   } else {
                     return '';
                   }
                 } else {
+                  localDataApp.update({
+                    details: Object.assign(localData.details, {
+                      [item.date]: res
+                    })
+                  });
                   return res;
                 }
               },
               () => {
-                if (localData.details && localData.details[item.date]) {
+                if (localData.details[item.date]) {
                   return Promise.resolve(localData.details[item.date]);
                 } else {
                   return Promise.resolve('');
@@ -78,12 +88,6 @@ export function getStat2019New() {
           )
         ).then(
           /**@param {Array<String>} resArr */ (resArr) => {
-            localDataApp.update({
-              details: list.reduce((prev, next, index) => {
-                prev[next.date] = resArr[index];
-                return prev;
-              }, {})
-            });
             const keys = [
               'confirmed',
               'severe',
@@ -124,8 +128,6 @@ export function getStat2019New() {
       }
     );
 }
-
-getStat2019New().then(console.log);
 
 /**
  * 获取例数
